@@ -1,0 +1,155 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "frmjsn",
+	"icon": "https://micro.blog/fromjason/avatar.jpg",
+	"home_page_url": "https://micro.fromjason.xyz/",
+	"feed_url": "https://micro.fromjason.xyz/feed.json",
+	"items": [
+		
+			{
+				"id": "http://fromjason.micro.blog/2023/11/26/echo-dumb-phone.html",
+				
+				"content_html": "<p><a href=\"https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy\">ECHO Dumb Phone Concept by Mike Skuza</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/img-2607.webp\" alt=\"ECHO Dumb phone\"></p>\n<p>Buttons, man. We all just want to feel something again. Even if it&rsquo;s textile feedback. I like this.</p>\n",
+				"content_text": "[ECHO Dumb Phone Concept by Mike Skuza](https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy): \n\n![ECHO Dumb phone](https://micro.fromjason.xyz/uploads/2023/img-2607.webp)\n\nButtons, man. We all just want to feel something again. Even if it's textile feedback. I like this. \n",
+				"date_published": "2023-11-26T23:50:57-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/26/echo-dumb-phone.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/25/derek-chauvin-stabbed.html",
+				
+				"content_html": "<p>Derek Chauvin stabbed in prison on Black Friday. From <a href=\"https://apnews.com/article/derek-chauvin-george-floyd-prison-stabbing-f24cde6aa28877d034530c2dc40ef7ea\">AP</a>:</p>\n<blockquote>\n<p>Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd, was stabbed by another inmate and seriously injured Friday at a federal prison in Arizona, a person familiar with the matter told The Associated Press.</p>\n</blockquote>\n<p><a href=\"https://memes.getyarn.io/yarn-clip/1948d511-828a-4422-bc33-74c96bbc6525/gif\">Irony</a>.</p>\n",
+				"content_text": "Derek Chauvin stabbed in prison on Black Friday. From [AP](https://apnews.com/article/derek-chauvin-george-floyd-prison-stabbing-f24cde6aa28877d034530c2dc40ef7ea):\n\n> Derek Chauvin, the former Minneapolis police officer convicted of murdering George Floyd, was stabbed by another inmate and seriously injured Friday at a federal prison in Arizona, a person familiar with the matter told The Associated Press.\n\n[Irony](https://memes.getyarn.io/yarn-clip/1948d511-828a-4422-bc33-74c96bbc6525/gif).\n",
+				"date_published": "2023-11-25T11:03:18-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/25/derek-chauvin-stabbed.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/24/from-in-two.html",
+				
+				"content_html": "<p>From <a href=\"https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/\">In 2020, Two Thirds of Google Searches Ended Without a Click</a>:</p>\n<blockquote>\n<p>From January to December, 2020, <strong>64.82% of searches</strong> on Google (desktop and mobile combined) ended in the search results without clicking to another web property. That number is likely undercounting some mobile and nearly all voice searches, and thus it’s probable that more than 2/3rds of all Google searches are what I’ve been calling “zero-click searches.”</p>\n</blockquote>\n<p>The world&rsquo;s largest scrapper site was once a search engine.</p>\n",
+				"content_text": "From [In 2020, Two Thirds of Google Searches Ended Without a Click](https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/):\n\n> From January to December, 2020, **64.82% of searches** on Google (desktop and mobile combined) ended in the search results without clicking to another web property. That number is likely undercounting some mobile and nearly all voice searches, and thus it’s probable that more than 2/3rds of all Google searches are what I’ve been calling “zero-click searches.” \n\nThe world's largest scrapper site was once a search engine.\n",
+				"date_published": "2023-11-24T20:39:36-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/24/from-in-two.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/24/im-using-defined.html",
+				
+				"content_html": "<p>I&rsquo;m using defined tags to filter my public bookmarks. Posts with lots of ads will be tagged as &ldquo;<strong>adicles</strong>.&rdquo;</p>\n<p>The &ldquo;posts&rdquo; tag is exclusive to personal &ldquo;sites.&rdquo; &ldquo;Articles&rdquo; come from &ldquo;orgs&rdquo; and &ldquo;agencies,&rdquo; so forth, and so on.</p>\n<p>Occasionally, I&rsquo;d like to share a piece from a big publication, like: <a href=\"https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/\">As We May Think</a> (1945) by Vannevar Bush for The Atlantic.</p>\n<p>Because of all the ads, that page is not a &ldquo;post&rdquo; or an &ldquo;article&rdquo; in fromjason land. It&rsquo;s a piece of revenue-generating content with a degraded reading experience (of no fault of the author, obviously).</p>\n<p>So, I&rsquo;m adding an &ldquo;<strong>adicle</strong>&rdquo; tag for such occasions.</p>\n<p>Adicles exist solely to generate ad revenue with no considerations for the reading experience (or substance in many cases). Still, some adicles contain writing worth a share. I&rsquo;ll just be sure to label it what it is: ads with a splash of prose.</p>\n",
+				"content_text": "I'm using defined tags to filter my public bookmarks. Posts with lots of ads will be tagged as \"**adicles**.\"\n\nThe \"posts\" tag is exclusive to personal \"sites.\" \"Articles\" come from \"orgs\" and \"agencies,\" so forth, and so on. \n\nOccasionally, I'd like to share a piece from a big publication, like: [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) (1945) by Vannevar Bush for The Atlantic. \n\nBecause of all the ads, that page is not a \"post\" or an \"article\" in fromjason land. It's a piece of revenue-generating content with a degraded reading experience (of no fault of the author, obviously). \n\nSo, I'm adding an \"**adicle**\" tag for such occasions. \n\nAdicles exist solely to generate ad revenue with no considerations for the reading experience (or substance in many cases). Still, some adicles contain writing worth a share. I'll just be sure to label it what it is: ads with a splash of prose. \n",
+				"date_published": "2023-11-24T17:40:41-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/24/im-using-defined.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/24/i-wanted-my.html",
+				
+				"content_html": "<p>I wanted my micro.blog bookmarks public and filtered, so I did some digging:</p>\n<p><a href=\"https://micro.blog/sod\">@sod</a> has a great <a href=\"https://github.com/svendahlstrand/plugin-bookmarks-shortcode\">public bookmarks plug-in</a>. Effortless setup.</p>\n<p>I then stumbled on <a href=\"https://micro.blog/pratik\">@pratik</a>&rsquo;s <a href=\"https://microblog.pratikmhatre.com/2023/08/15/thanks-to-heylouras.html\">post</a> sharing their <a href=\"https://microblog.pratikmhatre.com/faves/\">faves page</a>, which led me to <a href=\"https://micro.blog/heyloura\">@heyloura</a>&rsquo;s code to <a href=\"https://paste.lol/loura/micro-blog-bookmarks-shortcode\">filter bookmarks by tag</a>.</p>\n<p>I get to work on my bookmarks page today because of their contributions. Hooray for smart and generous people.</p>\n",
+				"content_text": "I wanted my micro.blog bookmarks public and filtered, so I did some digging:\n\n[@sod](https://micro.blog/sod) has a great [public bookmarks plug-in](https://github.com/svendahlstrand/plugin-bookmarks-shortcode). Effortless setup.\n\nI then stumbled on [@pratik](https://micro.blog/pratik)'s [post](https://microblog.pratikmhatre.com/2023/08/15/thanks-to-heylouras.html) sharing their [faves page](https://microblog.pratikmhatre.com/faves/), which led me to [@heyloura](https://micro.blog/heyloura)'s code to [filter bookmarks by tag](https://paste.lol/loura/micro-blog-bookmarks-shortcode). \n\nI get to work on my bookmarks page today because of their contributions. Hooray for smart and generous people.\n",
+				"date_published": "2023-11-24T12:54:47-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/24/i-wanted-my.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/23/november-no-feature.html",
+				
+				"content_html": "<p>November 2023— <a href=\"https://ia.net/topics/no-feature\">No Feature</a> by Information Architects:</p>\n<blockquote>\n<p>Writing is thinking. iA Writer is designed to make thinking enjoyable. A writing app that thinks for you is a robot that does your jogging.</p>\n</blockquote>\n<p>What surprised me the most about our new AI-capable world is the expressed disdain for human creators (artists) by &ldquo;AI artists&rdquo; (prompters). There&rsquo;s this attitude that creativity itself has been an injustice to non-creative people. And that AI is here to square that circle.</p>\n<p>People who sell art for profit, but cannot experience the joys of creativity, view artistry as a liability. To them, it&rsquo;s nothing more than a supply chain bottleneck. It&rsquo;s manual labor to be automated away.</p>\n<p>But of course, the economic efficiencies promised by generative AI isn&rsquo;t enough for them. &ldquo;Prompt artists&rdquo; demand all the creative accolades too. They want the gold medal placed around their necks after their robot finishes the race.</p>\n",
+				"content_text": "November 2023— [No Feature](https://ia.net/topics/no-feature) by Information Architects:\n\n> Writing is thinking. iA Writer is designed to make thinking enjoyable. A writing app that thinks for you is a robot that does your jogging. \n\nWhat surprised me the most about our new AI-capable world is the expressed disdain for human creators (artists) by \"AI artists\" (prompters). There's this attitude that creativity itself has been an injustice to non-creative people. And that AI is here to square that circle. \n\nPeople who sell art for profit, but cannot experience the joys of creativity, view artistry as a liability. To them, it's nothing more than a supply chain bottleneck. It's manual labor to be automated away. \n\nBut of course, the economic efficiencies promised by generative AI isn't enough for them. \"Prompt artists\" demand all the creative accolades too. They want the gold medal placed around their necks after their robot finishes the race. \n",
+				"date_published": "2023-11-23T20:17:03-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/23/november-no-feature.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/23/motherfucking-website-you.html",
+				
+				"content_html": "<p><a href=\"http://motherfuckingwebsite.com/\">Motherfucking website</a>:</p>\n<blockquote>\n<p>You. Are. Over-designing. Look at this shit. It&rsquo;s a motherfucking website. Why the fuck do you need to animate a fucking trendy-ass banner flag when I hover over that useless piece of shit?</p>\n</blockquote>\n<p>Maybe my favorite internet manifesto. I go back to it often because it&rsquo;s incredibly funny prose. But also, when I&rsquo;m itching to complicate things, I need it to reel me in. Even if it&rsquo;s satire.</p>\n<p>Oh lord, forgive me for my contributions to the corporate web. I&rsquo;ll try to make up for it in my personal portfolio. #webdesign #corporateweb</p>\n",
+				"content_text": "[Motherfucking website](http://motherfuckingwebsite.com/):\n\n> You. Are. Over-designing. Look at this shit. It's a motherfucking website. Why the fuck do you need to animate a fucking trendy-ass banner flag when I hover over that useless piece of shit? \n\nMaybe my favorite internet manifesto. I go back to it often because it's incredibly funny prose. But also, when I'm itching to complicate things, I need it to reel me in. Even if it's satire. \n\nOh lord, forgive me for my contributions to the corporate web. I'll try to make up for it in my personal portfolio. #webdesign #corporateweb\n",
+				"date_published": "2023-11-23T11:24:18-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/23/motherfucking-website-you.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/22/in-december-mozilla.html",
+				
+				"content_html": "<p>December 2004— <a href=\"https://blog.mozilla.org/press/2004/12/mozilla-foundation-places-two-page-advocacy-ad-in-the-new-york-times/\">Mozilla Foundation places two-page advocacy ad in The New York Times</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/f23b7882b0.png\" alt=\"mozilla ad\">\n<img src=\"https://micro.fromjason.xyz/uploads/2023/media.png\" alt=\"mozilla ad pg 2\"></p>\n<p>The rows of small text are the names of the first 50,000 Firefox users. Here&rsquo;s the <a href=\"https://blog.mozilla.org/press/files/2013/11/nytimes-firefox-final.pdf\">artwork</a> in high-res PDF. You can zoom-in to see the names.</p>\n<p>I love that the PDF is saved as &ldquo;Nytimes firefox final&rdquo; All these years, and we haven&rsquo;t found a versioning system better than appending &ldquo;final&rdquo; to the file name.</p>\n<p>&hellip;All these years and we&rsquo;re still fed-up with the dominant browser. The more things change, etcetera and so on.</p>\n",
+				"content_text": "December 2004— [Mozilla Foundation places two-page advocacy ad in The New York Times](https://blog.mozilla.org/press/2004/12/mozilla-foundation-places-two-page-advocacy-ad-in-the-new-york-times/):\n\n![mozilla ad](https://micro.fromjason.xyz/uploads/2023/f23b7882b0.png)\n![mozilla ad pg 2](https://micro.fromjason.xyz/uploads/2023/media.png)\n\nThe rows of small text are the names of the first 50,000 Firefox users. Here's the [artwork](https://blog.mozilla.org/press/files/2013/11/nytimes-firefox-final.pdf) in high-res PDF. You can zoom-in to see the names. \n\nI love that the PDF is saved as \"Nytimes firefox final\" All these years, and we haven't found a versioning system better than appending \"final\" to the file name.\n\n...All these years and we're still fed-up with the dominant browser. The more things change, etcetera and so on.  \n",
+				"date_published": "2023-11-22T18:39:46-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/22/in-december-mozilla.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/22/lets-talk-about.html",
+				
+				"content_html": "<p>Let&rsquo;s talk about the Dieter Rams-inspired retro tech movement and why this cassete player costs $160.</p>\n<p>I&rsquo;m not so big on complaining about price, but this is wild. It&rsquo;s pretty though.</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/img-2586.png\" alt=\"\"></p>\n",
+				"content_text": "Let's talk about the Dieter Rams-inspired retro tech movement and why this cassete player costs $160. \n\nI'm not so big on complaining about price, but this is wild. It's pretty though. \n\n![](https://micro.fromjason.xyz/uploads/2023/img-2586.png)\n",
+				"date_published": "2023-11-22T15:44:28-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/22/lets-talk-about.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/21/just-posted-a.html",
+				
+				"content_html": "<p>Just posted a rough draft of my <strong><a href=\"https://github.com/fromjasonstuff/digital-content-initiative\">digital content initiative</a></strong> to GitHub. When I say &ldquo;rough draft&rdquo; I mean <em>rough</em>. Just know that going in.</p>\n<p>The digital content initiative (working title?) is an attempt to preserve my digital content and reclaim my digital identity. Feel free to check it out.</p>\n<p>#indieweb</p>\n",
+				"content_text": "Just posted a rough draft of my **[digital content initiative](https://github.com/fromjasonstuff/digital-content-initiative)** to GitHub. When I say \"rough draft\" I mean *rough*. Just know that going in. \n\nThe digital content initiative (working title?) is an attempt to preserve my digital content and reclaim my digital identity. Feel free to check it out. \n\n#indieweb \n",
+				"date_published": "2023-11-21T21:57:25-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/21/just-posted-a.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/21/iphone-users-autocorrect.html",
+				
+				"content_html": "<p>iPhone users: autocorrect and predictive text are <em>horrible</em></p>\n<p>iOS 17: what if I interrupt your writing with words you spell correctly</p>\n",
+				"content_text": "iPhone users: autocorrect and predictive text are *horrible*\n\niOS 17: what if I interrupt your writing with words you spell correctly \n\n",
+				"date_published": "2023-11-21T16:47:19-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/21/iphone-users-autocorrect.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/20/increasingly-fascinated-by.html",
+				
+				"content_html": "<p>Increasingly fascinated by boutique search engines like <a href=\"https://search.marginalia.nu/\">Marginalia</a>.</p>\n<p>Because when was the last at time you searched on Google and didn&rsquo;t land on a website rife with ads? Have you <em>ever</em> clicked on a Google search result, and it was just some dude&rsquo;s site where they write about a topic you&rsquo;re interested in?</p>\n<p>There&rsquo;s a whole other internet out there that Google won&rsquo;t show us because it doesn&rsquo;t make money from it.</p>\n",
+				"content_text": "Increasingly fascinated by boutique search engines like [Marginalia](https://search.marginalia.nu/). \n\nBecause when was the last at time you searched on Google and didn't land on a website rife with ads? Have you *ever* clicked on a Google search result, and it was just some dude's site where they write about a topic you're interested in?\n\nThere's a whole other internet out there that Google won't show us because it doesn't make money from it. \n",
+				"date_published": "2023-11-20T22:43:53-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/20/increasingly-fascinated-by.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/20/apple-working-on.html",
+				"title": "Apple working on 5G MacBooks ",
+				"content_html": "<p>Well, cellular-powered Macs. 5G is assumed. Unless they use some other technology.. 👀</p>\n<p>From <a href=\"https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/\">MacRumors</a>:</p>\n<blockquote>\n<p>Writing in his latest Power On newsletter, Gurman says that Apple&rsquo;s custom technology aspirations include integrating an in-house modem into its system-on-a-chip (SoC), which would eventually see the launch of MacBooks with built-in cellular connectivity.</p>\n</blockquote>\n<p>I have a wild conspiracy theory that iPhone&rsquo;s Emergency Satellite service is a precursor to a fully-Apple cellular network. What better way to kick off the new service than with a satellite-connected  MacBook Pro.</p>\n<p>Whatever happens, I&rsquo;ll be first in line for a Mac I can use without coffee shop WiFi.</p>\n",
+				"content_text": "\nWell, cellular-powered Macs. 5G is assumed. Unless they use some other technology.. 👀 \n\nFrom [MacRumors](https://www.macrumors.com/2023/11/20/macbook-integrated-cellular-modem-2028/): \n\n> Writing in his latest Power On newsletter, Gurman says that Apple's custom technology aspirations include integrating an in-house modem into its system-on-a-chip (SoC), which would eventually see the launch of MacBooks with built-in cellular connectivity.\n\nI have a wild conspiracy theory that iPhone's Emergency Satellite service is a precursor to a fully-Apple cellular network. What better way to kick off the new service than with a satellite-connected  MacBook Pro.  \n\nWhatever happens, I'll be first in line for a Mac I can use without coffee shop WiFi. \n",
+				"date_published": "2023-11-20T17:51:45-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/20/apple-working-on.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/20/a-search-engine.html",
+				
+				"content_html": "<p>A search engine that prioritizes websites with little to no Adsense 😍</p>\n",
+				"content_text": "A search engine that prioritizes websites with little to no Adsense 😍\n",
+				"date_published": "2023-11-20T14:28:10-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/20/a-search-engine.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/19/thinking-of-ways.html",
+				
+				"content_html": "<p>Thinking of ways my micro blog can complement my main site.</p>\n<p>One idea I like is to use my micro blog link as a &ldquo;link tree&rdquo; for my social. Was going to make a page like that anyway. Now I have the added benefit of realtime posts too.</p>\n",
+				"content_text": "Thinking of ways my micro blog can complement my main site. \n\nOne idea I like is to use my micro blog link as a \"link tree\" for my social. Was going to make a page like that anyway. Now I have the added benefit of realtime posts too. \n",
+				"date_published": "2023-11-19T23:57:12-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/19/thinking-of-ways.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/19/my-favorite-photo.html",
+				
+				"content_html": "<p>My favorite photo. A true moment in time. I miss Atlanta.\n<img src=\"https://micro.fromjason.xyz/uploads/2023/media.jpg\" alt=\"couch\"></p>\n",
+				"content_text": "My favorite photo. A true moment in time. I miss Atlanta. \n![couch](https://micro.fromjason.xyz/uploads/2023/media.jpg)\n",
+				"date_published": "2023-11-19T23:16:24-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/19/my-favorite-photo.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/19/this-is-an.html",
+				
+				"content_html": "<p>This is an experiment. Frmjsn is a way to enjoy the abilities of dynamic content while keeping my main site, <a href=\"https://fromjason.xyz\">fromjason.xyz</a>, static and light.</p>\n<p>I chose micro.blog for frmjsn because I like their mission and the platform tools are robust. Let&rsquo;s see how it goes.</p>\n",
+				"content_text": "This is an experiment. Frmjsn is a way to enjoy the abilities of dynamic content while keeping my main site, [fromjason.xyz](https://fromjason.xyz), static and light. \n\nI chose micro.blog for frmjsn because I like their mission and the platform tools are robust. Let's see how it goes. \n",
+				"date_published": "2023-11-19T20:18:56-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/19/this-is-an.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/19/oh-hey-this.html",
+				
+				"content_html": "<p>Oh hey. This is my first post on my new frmjsn micro blog located on my site&rsquo;s subdomain micro.fromjason.xyz</p>\n",
+				"content_text": "Oh hey. This is my first post on my new frmjsn micro blog located on my site's subdomain micro.fromjason.xyz\n",
+				"date_published": "2023-11-19T19:53:41-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/19/oh-hey-this.html"
+			}
+	]
+}
