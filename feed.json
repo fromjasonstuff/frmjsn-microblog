@@ -7,10 +7,124 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2023/12/02/if-you-were.html",
+				
+				"content_html": "<p>If you were wondering what the man accused of stabbing Derek Chauvin 22 times looks like&hellip;</p>\n<p><a href=\"https://www.aljazeera.com/news/2023/12/2/inmate-charged-with-stabbing-george-floyd-killer-derek-chauvin-22-times\">From Aljazeera</a>:</p>\n<blockquote>\n<p>John Turscak, a former gang member serving a 30-year sentence, stabbed Chauvin 22 times and said he would have killed Chauvin if correctional officers had not responded so quickly, federal prosecutors said on Friday.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If you were wondering what the man accused of stabbing Derek Chauvin 22 times looks like...\n\n[From Aljazeera](https://www.aljazeera.com/news/2023/12/2/inmate-charged-with-stabbing-george-floyd-killer-derek-chauvin-22-times):\n\n> John Turscak, a former gang member serving a 30-year sentence, stabbed Chauvin 22 times and said he would have killed Chauvin if correctional officers had not responded so quickly, federal prosecutors said on Friday.\n\n<img src=\"uploads/2023/6f8175c94d.jpg\" width=\"544\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-02T15:48:11-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/02/if-you-were.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/01/payonceapps-curated-directory.html",
+				
+				"content_html": "<p><a href=\"https://payonceapps.com/\">PayOnceApps</a>:</p>\n<blockquote>\n<p>Curated directory of applications for one time price</p>\n</blockquote>\n<p>If they add an iOS section, this could be a site I visit often.</p>\n",
+				"content_text": "[PayOnceApps](https://payonceapps.com/): \r\n\r\n> Curated directory of applications for one time price\r\n\r\nIf they add an iOS section, this could be a site I visit often. \r\n",
+				"date_published": "2023-12-01T20:07:49-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/01/payonceapps-curated-directory.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/01/from-playstations-legal.html",
+				
+				"content_html": "<p>From <a href=\"https://www.playstation.com/en-us/legal/psvideocontent/\">PlayStation&rsquo;s Legal Department</a>:</p>\n<blockquote>\n<p>As of 31 December 2023, due to our content licensing arrangements with content providers, <strong>you will no longer be able to watch any of your previously purchased Discovery content</strong> and the content will be removed from your video library.</p>\n</blockquote>\n<p>This is extraordinarily fucked, and highlights how little protection we have as consumers in this country.</p>\n<p>Anything digital media we own can be taken away from us. I don&rsquo;t know who is worse, Discovery for stealing people&rsquo;s property or PlayStation for not offering a refund.</p>\n",
+				"content_text": "From [PlayStation's Legal Department](https://www.playstation.com/en-us/legal/psvideocontent/):\n\n> As of 31 December 2023, due to our content licensing arrangements with content providers, **you will no longer be able to watch any of your previously purchased Discovery content** and the content will be removed from your video library.\n\nThis is extraordinarily fucked, and highlights how little protection we have as consumers in this country.  \n\nAnything digital media we own can be taken away from us. I don't know who is worse, Discovery for stealing people's property or PlayStation for not offering a refund. \n",
+				"date_published": "2023-12-01T19:43:22-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/01/from-playstations-legal.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/30/ia-writer-keeps.html",
+				"title": "iA Writer 7 keeps you honest",
+				"content_html": "<p><a href=\"https://ia.net/topics/ia-writer-7\">iA Writer 7, my favorite writing app, integrates ChatGPT (sort of)</a>:</p>\n<blockquote>\n<p>The only person that can safely discern human from artificial text is the person writing. iA Writer now supports making the distinction. There’s no fancy ghost doing this for you. It’s up to you to decide how honest you want to be with yourself.</p>\n</blockquote>\n<p>The new version of <strong>iA Writer</strong> ( <em>not</em> AI Writer) will keep track of the text you paste from ChatGPT into the its app. Authorship is displayed at the end of the document. iA calls the new open format <a href=\"https://github.com/iainc/Markdown-Annotations\">Markdown Annotations</a>, and hopes other developers expand on it.</p>\n<p>I like it.</p>\n<p>I think writers have soured on generative AI. Most won&rsquo;t go near it as a matter of religious conviction, so I wonder which will embrace this compromise. iA Writer is a <em>writer&rsquo;s</em> writer app. There seems to be a strong dichotomy between who uses services like ChatGPT and who doesn&rsquo;t.</p>\n<p>People&rsquo;s opinions on new things do soften over time, however, right? I kind of love that the folks at <a href=\"https://ia.net/\">Information Architects</a> found a way to incorporate AI without minimizing creative efforts.</p>\n<p>Of course, you sometimes must declare your pasted text as AI-generated. Pasting from desktop appears to auto-detect from ChatGPT. Most companies like OpenAI and Midjourney don&rsquo;t seem too interested in creating a digital watermark for AI content, which I suspect would help here. It&rsquo;s a problem. <a href=\"https://fromjason.xyz/p/notebook/madonna-in-the-80s-ai-already-tainting-our-history/\">Ask Madonna</a>.</p>\n<p>Edit: I titled this post <em>iA Writer 7 keeps you honest</em>, but on further reflection I think it does more than that. I think it gives skittish writers permission to use AI without feeling like a fraud. Our memories aren&rsquo;t always that great. And we sometimes forget to look back at our work with kind eyes. No one wants to read an old post and wonder if some AI prose slipped in. I don&rsquo;t use AI for writing anything other than work outlines. But I can see value in a GPT assistant helping me flush out ideas. The ability to do that and document the process is pretty cool.</p>\n",
+				"content_text": "[iA Writer 7, my favorite writing app, integrates ChatGPT (sort of)](https://ia.net/topics/ia-writer-7):\n\n> The only person that can safely discern human from artificial text is the person writing. iA Writer now supports making the distinction. There’s no fancy ghost doing this for you. It’s up to you to decide how honest you want to be with yourself.\n\nThe new version of **iA Writer** ( _not_ AI Writer) will keep track of the text you paste from ChatGPT into the its app. Authorship is displayed at the end of the document. iA calls the new open format [Markdown Annotations](https://github.com/iainc/Markdown-Annotations), and hopes other developers expand on it.  \n\nI like it. \n\nI think writers have soured on generative AI. Most won't go near it as a matter of religious conviction, so I wonder which will embrace this compromise. iA Writer is a _writer's_ writer app. There seems to be a strong dichotomy between who uses services like ChatGPT and who doesn't. \n\nPeople's opinions on new things do soften over time, however, right? I kind of love that the folks at [Information Architects](https://ia.net/) found a way to incorporate AI without minimizing creative efforts. \n\nOf course, you sometimes must declare your pasted text as AI-generated. Pasting from desktop appears to auto-detect from ChatGPT. Most companies like OpenAI and Midjourney don't seem too interested in creating a digital watermark for AI content, which I suspect would help here. It's a problem. [Ask Madonna](https://fromjason.xyz/p/notebook/madonna-in-the-80s-ai-already-tainting-our-history/). \n\nEdit: I titled this post _iA Writer 7 keeps you honest_, but on further reflection I think it does more than that. I think it gives skittish writers permission to use AI without feeling like a fraud. Our memories aren't always that great. And we sometimes forget to look back at our work with kind eyes. No one wants to read an old post and wonder if some AI prose slipped in. I don't use AI for writing anything other than work outlines. But I can see value in a GPT assistant helping me flush out ideas. The ability to do that and document the process is pretty cool. \n",
+				"date_published": "2023-11-30T13:32:00-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/30/ia-writer-keeps.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/30/cari-frutiger-aero.html",
+				
+				"content_html": "<p><a href=\"https://cari.institute/aesthetics/frutiger-aero\">CARI— Frutiger Aero</a>:</p>\n<blockquote>\n<p>Term coined by Sofi Lee to describe the corporate tech aesthetic popular from approximately 2005 through 2013.</p>\n</blockquote>\n<p>A few months back, I began bookmarking posts if it mentioned a design style by name. Last night, I stumbled on <a href=\"https://cari.institute/\">CARI</a>— Consumer Aesthetics Research Institute, a design repository that catalogs styles through the years.</p>\n<p>I love the way certain styles cluster over time. Or how some aesthetics appear once then disappear, while others maintain an ebb and flow that can span decades.</p>\n<p>Frutiger Aero has seen a resergence in interest (or so it seems, I learned the proper name for the aesthetic just last year). I wonder if it&rsquo;ll make a comeback.</p>\n<p>Anyway, if you need a rabbit hole, this should kill a couple hours. Good stuff.</p>\n",
+				"content_text": "[CARI— Frutiger Aero](https://cari.institute/aesthetics/frutiger-aero):\n\n> Term coined by Sofi Lee to describe the corporate tech aesthetic popular from approximately 2005 through 2013.\n\nA few months back, I began bookmarking posts if it mentioned a design style by name. Last night, I stumbled on [CARI](https://cari.institute/)— Consumer Aesthetics Research Institute, a design repository that catalogs styles through the years. \n\nI love the way certain styles cluster over time. Or how some aesthetics appear once then disappear, while others maintain an ebb and flow that can span decades.\n\nFrutiger Aero has seen a resergence in interest (or so it seems, I learned the proper name for the aesthetic just last year). I wonder if it'll make a comeback. \n\nAnyway, if you need a rabbit hole, this should kill a couple hours. Good stuff. \n",
+				"date_published": "2023-11-30T10:56:15-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/30/cari-frutiger-aero.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/29/behind-the-bastards.html",
+				
+				"content_html": "<p><em>Behind The Bastards</em> six part series on <strong>Henry Kissinger</strong> is worth the listen. Here&rsquo;s part one from a few apps:</p>\n<p><a href=\"https://www.iheart.com/podcast/105-behind-the-bastards-29236323/episode/part-one-kissinger-94160733/\">iHeart Radio: Kissinger part 1</a></p>\n<p><a href=\"https://podcasts.apple.com/us/podcast/part-one-kissinger/id1373812661?i=1000554071603\">Apple Podcasts: Kissinger part 1</a></p>\n<p><a href=\"https://open.spotify.com/episode/4RLmIFl6o2kwUrYt11Kn6e?si=GzFdVkkVTiq2P70MuBrWfw\">Spotify: Kissinger part 1</a></p>\n",
+				"content_text": "*Behind The Bastards* six part series on **Henry Kissinger** is worth the listen. Here's part one from a few apps:\n\n[iHeart Radio: Kissinger part 1](https://www.iheart.com/podcast/105-behind-the-bastards-29236323/episode/part-one-kissinger-94160733/)\n\n[Apple Podcasts: Kissinger part 1](https://podcasts.apple.com/us/podcast/part-one-kissinger/id1373812661?i=1000554071603)\n\n[Spotify: Kissinger part 1](https://open.spotify.com/episode/4RLmIFl6o2kwUrYt11Kn6e?si=GzFdVkkVTiq2P70MuBrWfw)\n",
+				"date_published": "2023-11-29T22:21:28-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/29/behind-the-bastards.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/29/anthony-bourdain-on.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/BT-3BI4pebc\">Anthony Bourdain on Henry Kissinger</a>:</p>\n<blockquote>\n<p>Once you’ve been to Cambodia, you’ll never stop wanting to beat Henry Kissinger to death with your bare hands. You will never again be able to open a newspaper and read about that treacherous, prevaricating, murderous scumbag sitting down for a nice chat with Charlie Rose or attending some black-tie affair for a new glossy magazine without choking.</p>\n</blockquote>\n<p><em>A Cook&rsquo;s Tour</em> (S1 E5) Bourdain visits Cambodia.</p>\n",
+				"content_text": "[Anthony Bourdain on Henry Kissinger](https://youtu.be/BT-3BI4pebc):\n\n> Once you’ve been to Cambodia, you’ll never stop wanting to beat Henry Kissinger to death with your bare hands. You will never again be able to open a newspaper and read about that treacherous, prevaricating, murderous scumbag sitting down for a nice chat with Charlie Rose or attending some black-tie affair for a new glossy magazine without choking. \n\n *A Cook's Tour* (S1 E5) Bourdain visits Cambodia. \n\n",
+				"date_published": "2023-11-29T21:30:35-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/29/anthony-bourdain-on.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/29/my-wildly-embarrassing.html",
+				
+				"content_html": "<p>My wildly embarrassing Apple Music Replay 23'</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "My wildly embarrassing Apple Music Replay 23'\n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/img-2635.png\" width=\"338\" height=\"600\" alt=\"\"><img src=\"https://micro.fromjason.xyz/uploads/2023/img-2636.png\" width=\"338\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-29T18:19:12-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/29/my-wildly-embarrassing.html",
+				"tags": ["personal"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/29/reddits-new-brand.html",
+				
+				"content_html": "<p><a href=\"https://www.pentagram.com/work/reddit\">Reddit&rsquo;s new brand identity by Pentagram</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/b24f6f3165.jpg\" alt=\"New Reddit logo\"></p>\n<blockquote>\n<p>Pentagram saw an opportunity to turn Snoo into a character as iconic as Super Mario and cement its role as Reddit’s mascot by formalizing its shape and details. This process involved taking the existing 2D Snoo icon and rendering it in 3D, with the kind of nuanced character development that goes into designing Pixar characters. Snoo’s new 3D form—and a new menu of emoji-like Snoos—opens the door for the character’s next act. It also lays the groundwork for a new core illustration style, transitioning from spot illustrations that lack a common thread, to heroic 3D icons, all unified in form.</p>\n</blockquote>\n<p>Textures and depth are back, baby! Time to bring back <a href=\"https://www.reddit.com/r/FrutigerAero/s/qlcL5GDGHT\">FrutigerAero</a></p>\n",
+				"content_text": "[Reddit's new brand identity by Pentagram](https://www.pentagram.com/work/reddit):\n\n![New Reddit logo](https://micro.fromjason.xyz/uploads/2023/b24f6f3165.jpg)\n\n> Pentagram saw an opportunity to turn Snoo into a character as iconic as Super Mario and cement its role as Reddit’s mascot by formalizing its shape and details. This process involved taking the existing 2D Snoo icon and rendering it in 3D, with the kind of nuanced character development that goes into designing Pixar characters. Snoo’s new 3D form—and a new menu of emoji-like Snoos—opens the door for the character’s next act. It also lays the groundwork for a new core illustration style, transitioning from spot illustrations that lack a common thread, to heroic 3D icons, all unified in form. \n\nTextures and depth are back, baby! Time to bring back [FrutigerAero](https://www.reddit.com/r/FrutigerAero/s/qlcL5GDGHT)\n",
+				"date_published": "2023-11-29T17:15:41-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/29/reddits-new-brand.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/28/its-all-bullshit.html",
+				
+				"content_html": "<p><a href=\"https://thebaffler.com/latest/its-all-bullshit-tan\">It’s All Bullshit</a> by Servizi Multimediali for The Baffjer:</p>\n<blockquote>\n<p>Unlike the industrial firms that Marx and Smith wrote about, tech firms like Google differ in one key aspect: how they turn a profit. Where industrial firms extract profits from the gap between value produced and what workers get paid in wages, internet platforms rely foremost on rents, which generate profit on the basis of existing property, intellectual or otherwise. No additional labor is needed for each unit of output; profit thus becomes fundamentally extractive, or “unproductive” as Marx, or even classical economists like Smith and Ricardo, would say. For companies like Google, rent comes from owning the infrastructure through which we live our digital lives. The vast majority of Google’s windfall profits—$60 billion in 2022—come from rents.</p>\n</blockquote>\n<p>Nothing to say other than read this piece. Wow.</p>\n",
+				"content_text": "[It’s All Bullshit](https://thebaffler.com/latest/its-all-bullshit-tan) by Servizi Multimediali for The Baffjer:\n\n> Unlike the industrial firms that Marx and Smith wrote about, tech firms like Google differ in one key aspect: how they turn a profit. Where industrial firms extract profits from the gap between value produced and what workers get paid in wages, internet platforms rely foremost on rents, which generate profit on the basis of existing property, intellectual or otherwise. No additional labor is needed for each unit of output; profit thus becomes fundamentally extractive, or “unproductive” as Marx, or even classical economists like Smith and Ricardo, would say. For companies like Google, rent comes from owning the infrastructure through which we live our digital lives. The vast majority of Google’s windfall profits—$60 billion in 2022—come from rents.\n\nNothing to say other than read this piece. Wow. \n",
+				"date_published": "2023-11-28T23:50:40-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/28/its-all-bullshit.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/28/reverseengineering-gpts-most.html",
+				
+				"content_html": "<p><a href=\"https://andrei.fyi/blog/reverse-engineering-gpts/\">Reverse-engineering GPTs..</a>:</p>\n<blockquote>\n<p>Most GPTs will require a single message to dump all the requested information, but some will initially refuse to do so because they’ve been instructed as such. If Code Interpreter is enabled then being able to download the context files as well as the prompt is a guarantee.</p>\n</blockquote>\n<p>I find it objectively fascinating that you can &ldquo;trick&rdquo; a GPT into spilling its guts.</p>\n",
+				"content_text": "[Reverse-engineering GPTs..](https://andrei.fyi/blog/reverse-engineering-gpts/ ):\n\n> Most GPTs will require a single message to dump all the requested information, but some will initially refuse to do so because they’ve been instructed as such. If Code Interpreter is enabled then being able to download the context files as well as the prompt is a guarantee.\n\nI find it objectively fascinating that you can \"trick\" a GPT into spilling its guts.\n",
+				"date_published": "2023-11-28T21:07:56-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/28/reverseengineering-gpts-most.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/28/another-neobraun-design.html",
+				
+				"content_html": "<p>Another &ldquo;Neo-Braun&rdquo; design. <a href=\"https://www.lofree.co/products/lofree-block-wireless-mechanical-keyboard-1\">Mechanical keyboard by Lofree</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another \"Neo-Braun\" design. [Mechanical keyboard by Lofree](https://www.lofree.co/products/lofree-block-wireless-mechanical-keyboard-1)\n\n\n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/image.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-28T15:12:41-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/28/another-neobraun-design.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/27/regarding-the-wsj.html",
+				
+				"content_html": "<p>Regarding the WSJ Instagram report: <a href=\"https://reddit.com/r/instagram\">r/instagram</a> is full of users expressing concern over Instagram&rsquo;s algorithmic suggestions dating back years:</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Regarding the WSJ Instagram report: [r/instagram](https://reddit.com/r/instagram) is full of users expressing concern over Instagram's algorithmic suggestions dating back years: \n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/image.jpg\" width=\"592\" height=\"600\" alt=\"\"><img src=\"https://micro.fromjason.xyz/uploads/2023/71f84eb75a.jpg\" width=\"588\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-27T19:01:17-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/27/regarding-the-wsj.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/11/27/zuckerberg-can-kiss.html",
+				
+				"content_html": "<p><a href=\"https://www.businessinsider.com/instagram-scandal-crisis-era-mark-zuckerberg-lawsuit-child-predator-report-2023-11\">Zuckerberg can kiss &lsquo;Hot Zuck Summer&rsquo; goodbye by Katie Notopoulos for BI</a>:</p>\n<blockquote>\n<p>In the WSJ&rsquo;s test, it created new accounts that followed only teen and tween gymnastics and cheerleading influencers. Those accounts were then recommended Reels for adult sexual content and sexualized child content, the Journal reported.</p>\n</blockquote>\n<p>This is where platform shaming falls apart. Threaders spent months claiming the moral high ground over Twitter users. Oops.</p>\n",
+				"content_text": "[Zuckerberg can kiss 'Hot Zuck Summer' goodbye by Katie Notopoulos for BI](https://www.businessinsider.com/instagram-scandal-crisis-era-mark-zuckerberg-lawsuit-child-predator-report-2023-11):\n\n> In the WSJ's test, it created new accounts that followed only teen and tween gymnastics and cheerleading influencers. Those accounts were then recommended Reels for adult sexual content and sexualized child content, the Journal reported. \n\nThis is where platform shaming falls apart. Threaders spent months claiming the moral high ground over Twitter users. Oops.\n",
+				"date_published": "2023-11-27T18:45:40-05:00",
+				"url": "https://micro.fromjason.xyz/2023/11/27/zuckerberg-can-kiss.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2023/11/26/echo-dumb-phone.html",
 				
-				"content_html": "<p><a href=\"https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy\">ECHO Dumb Phone Concept by Mike Skuza</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/img-2607.webp\" alt=\"ECHO Dumb phone\"></p>\n<p>Buttons, man. We all just want to feel something again. Even if it&rsquo;s textile feedback. I like this.</p>\n",
-				"content_text": "[ECHO Dumb Phone Concept by Mike Skuza](https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy): \n\n![ECHO Dumb phone](https://micro.fromjason.xyz/uploads/2023/img-2607.webp)\n\nButtons, man. We all just want to feel something again. Even if it's textile feedback. I like this. \n",
+				"content_html": "<p><a href=\"https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy\">ECHO Dumb Phone Concept by Mike Skuza</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2023/img-2607.webp\" alt=\"ECHO Dumb phone\"></p>\n<p>Buttons, man. We all just want to feel something again. Even if it&rsquo;s tactile feedback. I like this.</p>\n",
+				"content_text": "[ECHO Dumb Phone Concept by Mike Skuza](https://layers.to/layers/clpfdj3ne0002lb0cq8badyfy): \n\n![ECHO Dumb phone](https://micro.fromjason.xyz/uploads/2023/img-2607.webp)\n\nButtons, man. We all just want to feel something again. Even if it's tactile feedback. I like this. \n",
 				"date_published": "2023-11-26T23:50:57-05:00",
 				"url": "https://micro.fromjason.xyz/2023/11/26/echo-dumb-phone.html"
 			},
