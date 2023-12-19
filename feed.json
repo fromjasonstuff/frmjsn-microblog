@@ -7,18 +7,112 @@
 	"items": [
 		
 			{
-				"id": "http://fromjason.micro.blog/2023/12/13/if-you-havent.html",
+				"id": "http://fromjason.micro.blog/2023/12/18/the-death-of.html",
 				
-				"content_html": "<blockquote>\n<p>If you haven’t heard of Worldcoin before, buckle up. Worldcoin is the OpenAI CEO’s cryptocurrency project, which aims to redistribute wealth to the people after artificial intelligence captures all the world’s money. You sign into Worldcoin with a scan of your eyeball through a giant metal orb (stay with me), so the company hopes to also become the internet’s default verification system. Users of mainstream internet platforms like Minecraft and Shopify can now “verify their humanness” with the World ID, and Altman’s vision for Worldcoin got one step closer to reality.</p>\n</blockquote>\n<p>I miss the old tech billionaires who did questionable shit for good ol' fashioned share holder value. Capitalists, at least, I understand.</p>\n<p>This is giving  &ldquo;guy stroking a cat and laughing vibes.&rdquo; Real big &ldquo;twisting my mustache&rdquo; energy. #openai</p>\n",
-				"content_text": "\n\n> If you haven’t heard of Worldcoin before, buckle up. Worldcoin is the OpenAI CEO’s cryptocurrency project, which aims to redistribute wealth to the people after artificial intelligence captures all the world’s money. You sign into Worldcoin with a scan of your eyeball through a giant metal orb (stay with me), so the company hopes to also become the internet’s default verification system. Users of mainstream internet platforms like Minecraft and Shopify can now “verify their humanness” with the World ID, and Altman’s vision for Worldcoin got one step closer to reality.\n\nI miss the old tech billionaires who did questionable shit for good ol' fashioned share holder value. Capitalists, at least, I understand. \n\nThis is giving  \"guy stroking a cat and laughing vibes.\" Real big \"twisting my mustache\" energy. #openai\n",
-				"date_published": "2023-12-13T18:57:43-05:00",
-				"url": "https://micro.fromjason.xyz/2023/12/13/if-you-havent.html"
+				"content_html": "<p><a href=\"https://blog.lopp.net/death-of-decentralized-email/\">The Death of Decentralized Email</a></p>\n<blockquote>\n<p>The next major development in email deliverability included the standardization of reputation scores. ‘SenderScore’ and other reputation systems emerged at this time. False positives were further reduced by adding sender authentication mechanisms like Sender Policy Framework, SenderID, and Domainkeys Identified Mail.\nOf course, if you&rsquo;re familiar with how these technologies work then you&rsquo;ll notice that most of them are reliant upon centralized gatekeepers who assign IP addresses and control domain registrations.</p>\n</blockquote>\n<p>.</p>\n",
+				"content_text": "[The Death of Decentralized Email](https://blog.lopp.net/death-of-decentralized-email/)\n\n> The next major development in email deliverability included the standardization of reputation scores. ‘SenderScore’ and other reputation systems emerged at this time. False positives were further reduced by adding sender authentication mechanisms like Sender Policy Framework, SenderID, and Domainkeys Identified Mail.\nOf course, if you're familiar with how these technologies work then you'll notice that most of them are reliant upon centralized gatekeepers who assign IP addresses and control domain registrations. \n\n.\n",
+				"date_published": "2023-12-18T22:09:13-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/18/the-death-of.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/18/the-medium-is.html",
+				
+				"content_html": "<p><em><a href=\"https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/\">The Medium is The Message</a></em> is part one of a series (probably). In it, I argue that #Threads is not the assumed victory for the #fediverse it appears to be.</p>\n<p>Longterm interpolation with Threads sends the wrong signal— not that Meta and Mastodon use #ActivityPub, a protocol the average user doesn&rsquo;t understand, but that both share the same beliefs for the #openweb.</p>\n",
+				"content_text": "*[The Medium is The Message](https://fromjason.xyz/p/notebook/the-medium-is-the-message-threads-isn-t-a-win-for-the-fediverse/)* is part one of a series (probably). In it, I argue that #Threads is not the assumed victory for the #fediverse it appears to be. \n\nLongterm interpolation with Threads sends the wrong signal— not that Meta and Mastodon use #ActivityPub, a protocol the average user doesn't understand, but that both share the same beliefs for the #openweb.\n",
+				"date_published": "2023-12-18T14:52:14-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/18/the-medium-is.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/15/mastodonsocial-links-behave.html",
+				
+				"content_html": "<p>Mastodon.social links behave differently than other links on Threads:</p>\n<p>All links posted to Threads have a tracking parameter attached to the URL, and will open to the in-app browser when clicked. This includes third party server links.</p>\n<p>mastodon.social profile links seem to be an exception. links from this specific server, open in the native Mastodon app and tracking parameters appear to be omitted.</p>\n<p>My omg.lol server link after posting to threads but before clicking on it:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mastodon.social links behave differently than other links on Threads:\n\nAll links posted to Threads have a tracking parameter attached to the URL, and will open to the in-app browser when clicked. This includes third party server links. \n\nmastodon.social profile links seem to be an exception. links from this specific server, open in the native Mastodon app and tracking parameters appear to be omitted.\n\nMy omg.lol server link after posting to threads but before clicking on it:\n\n<img src=\"uploads/2023/0946aa05c7.jpg\" width=\"600\" height=\"521\" alt=\"Shows link with tracking parameters. \">\n",
+				"date_published": "2023-12-15T15:13:24-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/15/mastodonsocial-links-behave.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/okay-i-tried.html",
+				
+				"content_html": "<p>Okay, I tried #Ivory for a week, and Mammoth for a day, and I already like #Mammoth better.</p>\n<p>Shout out to #Tapbots, they make great apps, obviously. But there&rsquo;s some odd muscle memory thing happening where I felt out of sync with the interface. Maybe because I was never really a tweetdeck user?</p>\n<p>Mammoth felt like hopping on a bike.</p>\n<p>Re: <a href=\"https://mastodon.social/@fromjason/111548279949354907\">mastodon.social/@fromjaso&hellip;</a></p>\n",
+				"content_text": "Okay, I tried #Ivory for a week, and Mammoth for a day, and I already like #Mammoth better.\n\nShout out to #Tapbots, they make great apps, obviously. But there's some odd muscle memory thing happening where I felt out of sync with the interface. Maybe because I was never really a tweetdeck user?\n\nMammoth felt like hopping on a bike. \n\nRe: [mastodon.social/@fromjaso...](https://mastodon.social/@fromjason/111548279949354907)\n",
+				"date_published": "2023-12-14T22:14:19-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/okay-i-tried.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/from-grubers-app.html",
+				
+				"content_html": "<p>From Gruber&rsquo;s <a href=\"https://daringfireball.net/\">App Store Rankings as a Proxy for Social Network Momentum</a>:</p>\n<blockquote>\n<p>Regular people do not want to use social networks without algorithmic feeds, and do not want to use social networks whose basic premise they do not understand.</p>\n</blockquote>\n<p>The latter point seems fair. But what indicators do we have that average users want opaque algorithms set by the worst incentives?</p>\n",
+				"content_text": "From Gruber's [App Store Rankings as a Proxy for Social Network Momentum](https://daringfireball.net/):\n\n> Regular people do not want to use social networks without algorithmic feeds, and do not want to use social networks whose basic premise they do not understand. \n\nThe latter point seems fair. But what indicators do we have that average users want opaque algorithms set by the worst incentives? \n",
+				"date_published": "2023-12-14T21:50:40-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/from-grubers-app.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/some-late-snark.html",
+				
+				"content_html": "<p>Some late snark on Gruber&rsquo;s <a href=\"https://daringfireball.net/linked/2023/06/19/not-that-kind-of-open\">Not That Kind of Open</a></p>\n<blockquote>\n<p>The whole point of ActivityPub as an open protocol is to turn Twitter/Instagram-like social networking into something more akin to email: truly open. If Facebook were on the cusp of launching a Gmail-like email service, would you preemptively declare that your email server would block them? To me that’s what this “Anti-Meta Fedi Pact” is arguing for.</p>\n</blockquote>\n<p>In this scenario, would Facebook&rsquo;s email service receive and catalog every email I send no matter the recipient? #meta</p>\n",
+				"content_text": "Some late snark on Gruber's [Not That Kind of Open](https://daringfireball.net/linked/2023/06/19/not-that-kind-of-open)\n\n> The whole point of ActivityPub as an open protocol is to turn Twitter/Instagram-like social networking into something more akin to email: truly open. If Facebook were on the cusp of launching a Gmail-like email service, would you preemptively declare that your email server would block them? To me that’s what this “Anti-Meta Fedi Pact” is arguing for.\n\nIn this scenario, would Facebook's email service receive and catalog every email I send no matter the recipient? #meta\n",
+				"date_published": "2023-12-14T21:36:17-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/some-late-snark.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/a-few-studies.html",
+				
+				"content_html": "<p>A few studies conducted by #facebook / #meta  I&rsquo;ve bookmarked over the years:</p>\n<p><a href=\"https://www.pnas.org/doi/10.1073/pnas.1218772110\">Private traits and attributes are predictable from digital records of human behavior</a></p>\n<p><a href=\"https://www.pnas.org/content/115/44/11203\">Facebook language predicts depression in medical records</a></p>\n<p><a href=\"https://www.pnas.org/content/111/24/8788\">Experimental evidence of massive-scale emotional contagion through social networks</a></p>\n<p><a href=\"https://patents.google.com/patent/US9740752B2/en\">Determining user personality characteristics from social networking system communications and characteristics</a></p>\n",
+				"content_text": "A few studies conducted by #facebook / #meta  I've bookmarked over the years:\n\n[Private traits and attributes are predictable from digital records of human behavior](https://www.pnas.org/doi/10.1073/pnas.1218772110)\n\n[Facebook language predicts depression in medical records](https://www.pnas.org/content/115/44/11203)\n\n[Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788)\n\n[Determining user personality characteristics from social networking system communications and characteristics](https://patents.google.com/patent/US9740752B2/en)\n",
+				"date_published": "2023-12-14T10:58:58-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/a-few-studies.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/i-have-a.html",
+				
+				"content_html": "<p>I have a big gripe with #Mastodon CEO&rsquo;s letter to anxious minds about #Threads:</p>\n<p>It&rsquo;s not about whether Meta can track us across the web. They don&rsquo;t need to the moment we start generating content for them.</p>\n<p>Meta has proven time and again that it has no problem with using people&rsquo;s own data to affect their moods and actions.</p>\n<p>We can sugar coat it all we want but #Meta has more data on #activitypub users today than it did yesterday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have a big gripe with #Mastodon CEO's letter to anxious minds about #Threads: \n\nIt's not about whether Meta can track us across the web. They don't need to the moment we start generating content for them. \n\nMeta has proven time and again that it has no problem with using people's own data to affect their moods and actions. \n\nWe can sugar coat it all we want but #Meta has more data on #activitypub users today than it did yesterday. \n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/46c6e85d2a.jpg\" width=\"549\" height=\"600\" alt=\"According to the App Store listing for the Threads app, it collects a variety of data, which stands out in comparison to the Mastodon app, which collects none.&10;However, this affects only those who download and use the Threads app, or become users of Threads directly through other means. Even if you follow or send a message to a Threads user from your Mastodon account, Threads will not be able to collect any of your private information except the message you sent.\">\n",
+				"date_published": "2023-12-14T01:51:18-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/i-have-a.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/14/instagrams-threads-steps.html",
+				
+				"content_html": "<p>Instagram&rsquo;s #Threads steps into the #Fediverse eighteen days after these two stories dropped:</p>\n<p><a href=\"https://www.wsj.com/tech/meta-instagram-video-algorithm-children-adult-sexual-content-72874155\">Instagram’s Algorithm Delivers Toxic Video Mix to Adults Who Follow Children - WSJ 11/28/203</a></p>\n<p><a href=\"https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html\">At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say 11/27/203</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Instagram's #Threads steps into the #Fediverse eighteen days after these two stories dropped:\n\n[Instagram’s Algorithm Delivers Toxic Video Mix to Adults Who Follow Children - WSJ 11/28/203](https://www.wsj.com/tech/meta-instagram-video-algorithm-children-adult-sexual-content-72874155)\n\n[At Meta, Millions of Underage Users Were an ‘Open Secret,’ States Say 11/27/203](https://www.nytimes.com/2023/11/25/technology/instagram-meta-children-privacy.html)\n\n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/755d1da23f.jpg\" width=\"426\" height=\"600\" alt=\"Instagram's system served jarring doses of salacious content to those test accounts, including risqué footage of children as well as overtly sexual adult videos — and ads for some of the biggest U.S. brands.&10;The Journal set up the test accounts after observing that the thousands of followers of such young people's accounts often include large numbers of adult men, and that many of the accounts who followed those children also had demonstrated interest in sex&10;content related to both children and adults.\"><img src=\"https://micro.fromjason.xyz/uploads/2023/1df0b1a9af.jpg\" width=\"600\" height=\"526\" alt=\"But much of the evidence cited by the states was blacked out by redactions in the initial filing.&10;Now the unsealed complaint, filled on Wednesday evening, provides new details from the states' lawsuit. Using snippets from internal emails, employee chats and company presentations, the complaint contends that Instagram for years &quot;coveted and pursued&quot; underage users even as the company &quot;failed&quot; to comply with the children's privacy law.\">\n",
+				"date_published": "2023-12-14T00:21:25-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/14/instagrams-threads-steps.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/13/the-vibes-i.html",
+				
+				"content_html": "<p>The vibes I get from this are worse than when Kendal got in the car with that waiter from Shiv&rsquo;s wedding. I&rsquo;ll tell ActivityPub the same thing I shouted at my tv— never carpool with a billionaire.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The vibes I get from this are worse than when Kendal got in the car with that waiter from Shiv's wedding. I'll tell ActivityPub the same thing I shouted at my tv— never carpool with a billionaire. \n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/c8cb5cf5b7.jpg\" width=\"600\" height=\"380\" alt=\"zuck &&10;10h&10;• • •&10;Starting a test where posts from Threads accounts will be available on Mastodon and other services that use the ActivityPub protocol. Making Threads interoperable will give people more choice over how they interact and it will help content reach more people. I'm pretty optimistic about this.&10;769 replies • 9,062 likes\">\n",
+				"date_published": "2023-12-13T22:51:23-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/13/the-vibes-i.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/13/the-most-popular.html",
+				
+				"content_html": "<p>The most popular site on Facebook right now is a&hellip; blog? I mean, it&rsquo;s a Catholic fundamentalist blog, but still one for our side I guess, right?</p>\n<p>The dude who writes it must have a big readership&hellip; right?</p>\n<p>Nope.</p>\n<p><a href=\"https://www.garbageday.email/p/the-amen-spam-conquered-facebook\">Ryan Broderick for Garbage Day</a>:</p>\n<blockquote>\n<p>And, as you might expect, there are hundreds of Catholic Fundamentalism blog posts that would be deeply controversial in most religious circles (“A protestant is a person who willfully disobeys Any Word of Christ” is a doozy). But the way they’re shared on Facebook means that next to no one is actually clicking through to read them. In fact, according to the site’s own traffic counts, <strong>that anti-Protestant post only has 23 views, but its Facebook post has over 7,000 reactions and a thousand comments</strong>. And it&rsquo;s those thousand comments that are the key here.</p>\n</blockquote>\n<p>Weird Christian infighting aside, those figures are wild. I mean, if you told me that 23 people <em>accidentally</em> clicked on his post I&rsquo;d believe you.</p>\n<p>This tells me two things:</p>\n<ol>\n<li>Rage bait is a poor way to generate an audience.</li>\n<li>People who spend too much time in rushing streams of content are incapable of enjoying anything longer than a headline.</li>\n</ol>\n<p>Anyway, I think it&rsquo;s time to reread <em><a href=\"https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/\">The Garden and the Stream: A Technopastoral</a></em>.</p>\n",
+				"content_text": "The most popular site on Facebook right now is a... blog? I mean, it's a Catholic fundamentalist blog, but still one for our side I guess, right? \n\nThe dude who writes it must have a big readership... right? \n\nNope. \n\n[Ryan Broderick for Garbage Day](https://www.garbageday.email/p/the-amen-spam-conquered-facebook):\n\n> And, as you might expect, there are hundreds of Catholic Fundamentalism blog posts that would be deeply controversial in most religious circles (“A protestant is a person who willfully disobeys Any Word of Christ” is a doozy). But the way they’re shared on Facebook means that next to no one is actually clicking through to read them. In fact, according to the site’s own traffic counts, **that anti-Protestant post only has 23 views, but its Facebook post has over 7,000 reactions and a thousand comments**. And it's those thousand comments that are the key here.\n\nWeird Christian infighting aside, those figures are wild. I mean, if you told me that 23 people *accidentally* clicked on his post I'd believe you. \n\nThis tells me two things:\n\n1. Rage bait is a poor way to generate an audience. \n2. People who spend too much time in rushing streams of content are incapable of enjoying anything longer than a headline. \n\nAnyway, I think it's time to reread *[The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)*. \n",
+				"date_published": "2023-12-13T19:30:45-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/13/the-most-popular.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2023/12/13/from-sam-altmans.html",
+				
+				"content_html": "<p>From <a href=\"https://gizmodo.com/worldcoin-sam-altman-eye-scan-crypto-minecraft-1851096041\">Sam Altman’s Weird Eyeball Scanning Crypto Tech Comes to Minecraft</a>:</p>\n<blockquote>\n<p>If you haven’t heard of Worldcoin before, buckle up. Worldcoin is the OpenAI CEO’s cryptocurrency project, which aims to redistribute wealth to the people after artificial intelligence captures all the world’s money. You sign into Worldcoin with a scan of your eyeball through a giant metal orb (stay with me), so the company hopes to also become the internet’s default verification system. Users of mainstream internet platforms like Minecraft and Shopify can now “verify their humanness” with the World ID, and Altman’s vision for Worldcoin got one step closer to reality.</p>\n</blockquote>\n<p>I miss the old tech billionaires who did questionable shit for good ol' fashioned share holder value. Capitalists, at least, I understand.</p>\n<p>This is giving  &ldquo;guy stroking a cat and laughing vibes.&rdquo; Real big &ldquo;twisting my mustache&rdquo; energy.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\nFrom [Sam Altman’s Weird Eyeball Scanning Crypto Tech Comes to Minecraft](https://gizmodo.com/worldcoin-sam-altman-eye-scan-crypto-minecraft-1851096041):\n\n> If you haven’t heard of Worldcoin before, buckle up. Worldcoin is the OpenAI CEO’s cryptocurrency project, which aims to redistribute wealth to the people after artificial intelligence captures all the world’s money. You sign into Worldcoin with a scan of your eyeball through a giant metal orb (stay with me), so the company hopes to also become the internet’s default verification system. Users of mainstream internet platforms like Minecraft and Shopify can now “verify their humanness” with the World ID, and Altman’s vision for Worldcoin got one step closer to reality.\n\nI miss the old tech billionaires who did questionable shit for good ol' fashioned share holder value. Capitalists, at least, I understand. \n\nThis is giving  \"guy stroking a cat and laughing vibes.\" Real big \"twisting my mustache\" energy. \n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/533109ed61.jpg\" width=\"450\" height=\"280\" alt=\"\">\n",
+				"date_published": "2023-12-13T19:01:16-05:00",
+				"url": "https://micro.fromjason.xyz/2023/12/13/from-sam-altmans.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://fromjason.micro.blog/2023/12/12/beeper-mini-users.html",
 				
 				"content_html": "<p>Beeper Mini users in iMessage</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beeper Mini users in iMessage\n\n\n<img src=\"uploads/2023/b8cee8e2ca.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Beeper Mini users in iMessage\n\n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/b8cee8e2ca.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-12-12T10:47:41-05:00",
 				"url": "https://micro.fromjason.xyz/2023/12/12/beeper-mini-users.html"
 			},
