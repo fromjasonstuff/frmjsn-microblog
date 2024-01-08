@@ -7,6 +7,174 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/01/08/where-have-all.html",
+				
+				"content_html": "<p><a href=\"https://fromjason.xyz/p/notebook/where-have-all-the-websites-gone/\">Where have all the websites gone?</a>:</p>\n<p>That&rsquo;s the question one Twitter user asked this thanksgiving, and the post went viral. I haven&rsquo;t stopped thinking about it.</p>\n<p>I wrote about this question, some potential answers, and maybe one solution. Not <em>the</em> solution. But one of many.</p>\n",
+				"content_text": "[Where have all the websites gone?](https://fromjason.xyz/p/notebook/where-have-all-the-websites-gone/):\n\nThat's the question one Twitter user asked this thanksgiving, and the post went viral. I haven't stopped thinking about it.\n\nI wrote about this question, some potential answers, and maybe one solution. Not *the* solution. But one of many.\n",
+				"date_published": "2024-01-08T15:16:27-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/08/where-have-all.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/07/regarding-elon-musk.html",
+				
+				"content_html": "<p>Regarding: <a href=\"https://www.wsj.com/business/elon-musk-illegal-drugs-e826a9e1\">Elon Musk Has Used Illegal Drugs</a></p>\n<p>I find it odd, borderline infuriating even, how many left-of-center folks are suddenly very concerned with drug use stigma.</p>\n<p>When it&rsquo;s a brown kid dying in jail for a weed charge, it&rsquo;s &ldquo;nuanced&rdquo;.</p>\n<p>When it&rsquo;s about a billionaire who believes in the great replacement theory, all of a sudden it&rsquo;s #ACAB and legalize it.</p>\n<p>Bro. Please be so for real.</p>\n",
+				"content_text": "Regarding: [Elon Musk Has Used Illegal Drugs](https://www.wsj.com/business/elon-musk-illegal-drugs-e826a9e1)\n\nI find it odd, borderline infuriating even, how many left-of-center folks are suddenly very concerned with drug use stigma.\n\nWhen it's a brown kid dying in jail for a weed charge, it's \"nuanced\". \n\nWhen it's about a billionaire who believes in the great replacement theory, all of a sudden it's #ACAB and legalize it. \n\nBro. Please be so for real.\n",
+				"date_published": "2024-01-07T15:37:07-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/07/regarding-elon-musk.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/07/icloud-is-lowkey.html",
+				
+				"content_html": "<p>iCloud+ is lowkey an incredible service. iCloud Drive, Mail, Keychain, Multi-device sync for all my data, web interface, plus some extra features I use often:</p>\n<ul>\n<li>Custom domain email addresses</li>\n<li>Private relay</li>\n<li>Hide my email with ability to make unlimited(?) forward addresses.</li>\n<li>Advanced Data Protection with end-to-end encryption for storage and backups.</li>\n</ul>\n",
+				"content_text": "iCloud+ is lowkey an incredible service. iCloud Drive, Mail, Keychain, Multi-device sync for all my data, web interface, plus some extra features I use often:\n\n- Custom domain email addresses\n- Private relay\n- Hide my email with ability to make unlimited(?) forward addresses. \n- Advanced Data Protection with end-to-end encryption for storage and backups. \n\n",
+				"date_published": "2024-01-07T14:10:46-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/07/icloud-is-lowkey.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/06/blogging-platforms.html",
+				"title": "Blogging platforms",
+				"content_html": "<p>I&rsquo;m listing some blog platform recommendations for a friend, so figured I should just make that list public.</p>\n<p><strong>The following are platforms I&rsquo;m familiar with:</strong></p>\n<p><a href=\"https://bearblog.dev/\">Bear Blog</a>: Simple and loved in the blogging community. I believe it&rsquo;s free with a paid option. If I didn&rsquo;t have a custom site, I&rsquo;d probably use Bear, or Write.as.</p>\n<p><a href=\"https://write.as\">Write.as</a>: Also simple and loved. No free version though. Price starts at $6/mo. I used write.as for a few months and enjoyed it.</p>\n<p><a href=\"https://neocities.org/\">NeoCities</a>: Nostalgia! I love this concept. I haven&rsquo;t been through the set up process, but it looks like you may need to know some basic HTML/CSS. There&rsquo;s a social element with featured blogs. Service is free with a paid option. Some of my favorite blogs are on NeoCities.</p>\n<p><a href=\"https://ghost.org/\">Ghost</a>: Feature-rich. Geared toward professional publishers, but anyone can use. If you&rsquo;re just starting out, might be overkill. I used Ghost a few years ago, before its glow-up. It&rsquo;s a great platform. Starts at $9/mo. If you&rsquo;re adventurous, self-hosting a ghost blog is much cheaper.</p>\n<p><a href=\"https://micro.blog/\">Micro.blog</a>: Simple to use but has some cool features. There&rsquo;s also a social element which I like. I use micro.blog daily for sharing interesting links. But long-form works just fine. Starts at $5/mo.</p>\n<p><a href=\"https://home.omg.lol/\">omg.lol</a>: Their blog feature &ldquo;weblog&rdquo; is still in beta. But I&rsquo;m adding them to the list because I love their service so much. It&rsquo;s also sort of difficult to explain. You get your own web address, a linktree-esque webpage, a Mastodon account on their server, plus some other cool stuff for $20/year. Not bad.</p>\n<p><strong>A few platforms I&rsquo;m unfamiliar with but looked cool</strong></p>\n<p><a href=\"https://www.are.na/\">Are.na</a>: described as Tumblr meets Wikipedia.</p>\n<p><a href=\"https://posthaven.com/\">PostHaven</a>: Up to ten blogs for $5/mo.</p>\n<p><a href=\"https://blot.im/\">Blot</a>: Turns a folder into a website.</p>\n<p><a href=\"https://typeshare.co/home\">TypeShare</a>: Comes with an idea generator and outliner</p>\n<p>A few recommends from the Mastodon community after posting:</p>\n<p><em>Note: Some of these perhaps fall on the more technie side and may require some set up.</em>.</p>\n<p><a href=\"https://smol.pub/\">smol.pub</a>: &ldquo;Your journal on the small net.&rdquo;</p>\n<p><a href=\"https://prose.sh/\">prose.sh</a>: &ldquo;a blog platform for hackers&rdquo; (hell yeah)</p>\n<p><a href=\"https://mataroa.blog/\">mataroa.blog</a>: &ldquo;Naked blogging platform, for minimalists. Just write.&rdquo; (Love)</p>\n<p><a href=\"https://telegra.ph/\">telegra.ph</a>: Opens to a blank canvas and a publish button. Nice.</p>\n<p><a href=\"https://pika.page/\">pika.page</a>: &ldquo;Pika makes blogging easy and beautiful.&rdquo;</p>\n",
+				"content_text": "I'm listing some blog platform recommendations for a friend, so figured I should just make that list public. \n\n**The following are platforms I'm familiar with:**\n\n[Bear Blog](https://bearblog.dev/): Simple and loved in the blogging community. I believe it's free with a paid option. If I didn't have a custom site, I'd probably use Bear, or Write.as. \n\n[Write.as](https://write.as): Also simple and loved. No free version though. Price starts at $6/mo. I used write.as for a few months and enjoyed it. \n\n[NeoCities](https://neocities.org/): Nostalgia! I love this concept. I haven't been through the set up process, but it looks like you may need to know some basic HTML/CSS. There's a social element with featured blogs. Service is free with a paid option. Some of my favorite blogs are on NeoCities. \n\n[Ghost](https://ghost.org/): Feature-rich. Geared toward professional publishers, but anyone can use. If you're just starting out, might be overkill. I used Ghost a few years ago, before its glow-up. It's a great platform. Starts at $9/mo. If you're adventurous, self-hosting a ghost blog is much cheaper. \n\n[Micro.blog](https://micro.blog/): Simple to use but has some cool features. There's also a social element which I like. I use micro.blog daily for sharing interesting links. But long-form works just fine. Starts at $5/mo. \n\n[omg.lol](https://home.omg.lol/): Their blog feature \"weblog\" is still in beta. But I'm adding them to the list because I love their service so much. It's also sort of difficult to explain. You get your own web address, a linktree-esque webpage, a Mastodon account on their server, plus some other cool stuff for $20/year. Not bad. \n\n**A few platforms I'm unfamiliar with but looked cool**\n\n[Are.na](https://www.are.na/): described as Tumblr meets Wikipedia.\n\n[PostHaven](https://posthaven.com/): Up to ten blogs for $5/mo. \n\n[Blot](https://blot.im/): Turns a folder into a website. \n\n[TypeShare](https://typeshare.co/home): Comes with an idea generator and outliner\n\nA few recommends from the Mastodon community after posting:\n\n*Note: Some of these perhaps fall on the more technie side and may require some set up.*.\n\n[smol.pub](https://smol.pub/): \"Your journal on the small net.\"\n\n[prose.sh](https://prose.sh/): \"a blog platform for hackers\" (hell yeah)\n\n[mataroa.blog](https://mataroa.blog/): \"Naked blogging platform, for minimalists. Just write.\" (Love)\n\n[telegra.ph](https://telegra.ph/): Opens to a blank canvas and a publish button. Nice. \n\n[pika.page](https://pika.page/): \"Pika makes blogging easy and beautiful.\"\n",
+				"date_published": "2024-01-06T22:31:42-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/06/blogging-platforms.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/06/theres-some-interesting.html",
+				
+				"content_html": "<p>There&rsquo;s some interesting parallels between the <strong>Technocracy movement</strong> of the 1930s and 40s, and a contemporary movement known as <strong>Effective Altruism</strong>.</p>\n<p>Both ideologies promise a techno-utopia, if only we&rsquo;d give the world to its believers.</p>\n<p>And both share some lineage— Joshua Norman Haldeman, 1940s director of Technocracy Inc, is the grandfather of Effective Altruism&rsquo;s most powerful evangelist, Elon Musk.</p>\n<p>What a gnarly little coincidence.</p>\n",
+				"content_text": "There's some interesting parallels between the **Technocracy movement** of the 1930s and 40s, and a contemporary movement known as **Effective Altruism**. \n\nBoth ideologies promise a techno-utopia, if only we'd give the world to its believers. \n\nAnd both share some lineage— Joshua Norman Haldeman, 1940s director of Technocracy Inc, is the grandfather of Effective Altruism's most powerful evangelist, Elon Musk. \n\nWhat a gnarly little coincidence.\n",
+				"date_published": "2024-01-06T20:15:44-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/06/theres-some-interesting.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/06/meta-allows-facebook.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy\">Meta allows Facebook and Instagram ads saying 2020 election was rigged | The Guardian Nov 2023</a>:</p>\n<blockquote>\n<p>The Tech Oversight Project decried the change in a statement: “We now know that Mark Zuckerberg and Meta will lie to Congress, endanger the American people, and continually threaten the future of our democracy,” said Kyle Morse, deputy executive director. “This announcement is a horrible preview of what we can expect in 2024.”</p>\n</blockquote>\n<p>Guess which social platform has an outright ban on political ads? I&rsquo;ll give you a hint— it&rsquo;s the only social media platform in US history with bipartisan support to outlaw it.</p>\n",
+				"content_text": "[Meta allows Facebook and Instagram ads saying 2020 election was rigged | The Guardian Nov 2023](https://www.theguardian.com/technology/2023/nov/15/facebook-ads-2020-election-rigged-stolen-instagram-policy):\n\n> The Tech Oversight Project decried the change in a statement: “We now know that Mark Zuckerberg and Meta will lie to Congress, endanger the American people, and continually threaten the future of our democracy,” said Kyle Morse, deputy executive director. “This announcement is a horrible preview of what we can expect in 2024.”\n\nGuess which social platform has an outright ban on political ads? I'll give you a hint— it's the only social media platform in US history with bipartisan support to outlaw it.\n",
+				"date_published": "2024-01-06T14:32:06-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/06/meta-allows-facebook.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/06/fyi-will-blocking.html",
+				
+				"content_html": "<p><a href=\"https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html\">FYI: Will Blocking remain legal for all in the USA? Supreme Court to rule on issue. from Bob Wyman April 2023</a>:</p>\n<blockquote>\n<p>If SCOTUS rules against blocking, might individuals with government roles be\nbarred from using instances that provide instance-level blocking or either\nindividuals or other instances?</p>\n</blockquote>\n<p>I don&rsquo;t know enough to have an opinion. But these SCOTUS cases are an interesting insight into how the US government may legislate &ldquo;blocking.&rdquo;</p>\n",
+				"content_text": "[FYI: Will Blocking remain legal for all in the USA? Supreme Court to rule on issue. from Bob Wyman April 2023](https://lists.w3.org/Archives/Public/public-swicg/2023Apr/0093.html):\n\n> If SCOTUS rules against blocking, might individuals with government roles be\nbarred from using instances that provide instance-level blocking or either\nindividuals or other instances?\n\nI don't know enough to have an opinion. But these SCOTUS cases are an interesting insight into how the US government may legislate \"blocking.\"\n",
+				"date_published": "2024-01-06T14:15:16-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/06/fyi-will-blocking.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/06/the-people-of.html",
+				
+				"content_html": "<p><a href=\"https://newrepublic.com/article/177733/billionaire-solano-california-tech-secession\">The People of Solano County Versus the Next Tech-Billionaire Dystopia</a>:</p>\n<blockquote>\n<p>California Forever aligns suspiciously with a cultish dystopian movement to build so-called “network states”—private zones where tech zillionaires can abandon democratic society to live under the rule of their own private micro governments.</p>\n</blockquote>\n<p>Remember when we collectively agreed that our worst fear was a Trump that spoke like Obama? Yeah, I think those are just technocrats.</p>\n",
+				"content_text": "[The People of Solano County Versus the Next Tech-Billionaire Dystopia](https://newrepublic.com/article/177733/billionaire-solano-california-tech-secession):\n\n> California Forever aligns suspiciously with a cultish dystopian movement to build so-called “network states”—private zones where tech zillionaires can abandon democratic society to live under the rule of their own private micro governments. \n\nRemember when we collectively agreed that our worst fear was a Trump that spoke like Obama? Yeah, I think those are just technocrats.  \n",
+				"date_published": "2024-01-06T11:59:06-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/06/the-people-of.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/05/jon-bakos-live.html",
+				
+				"content_html": "<p><a href=\"https://bsky.app/profile/jonbakos.bsky.social\">Jon Bakos</a> live posting winners of Words of the Year from the American Dialect Society.</p>\n<p>Here are a few winners:</p>\n<p>Digital word of the year: <strong>Enshittification</strong></p>\n<p>AI-Related woty: <strong>Stochastic Parrot</strong> (yay Timnet Gebru)</p>\n<p>Political woty: 🍉 (Palestinian solidarity)</p>\n<p>Most useful woty: (derogatory) (a personal fav.)</p>\n<p>#woty2023</p>\n",
+				"content_text": "[Jon Bakos](https://bsky.app/profile/jonbakos.bsky.social) live posting winners of Words of the Year from the American Dialect Society. \n\nHere are a few winners:\n\nDigital word of the year: **Enshittification**\n\nAI-Related woty: **Stochastic Parrot** (yay Timnet Gebru)\n\nPolitical woty: 🍉 (Palestinian solidarity)\n\nMost useful woty: (derogatory) (a personal fav.)\n\n#woty2023\n",
+				"date_published": "2024-01-05T20:59:21-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/05/jon-bakos-live.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/05/from-techemails-holds.html",
+				
+				"content_html": "<p>From <a href=\"https://www.threads.net/@techemails/post/C1uvzaWP3N1/\">techemails</a>:</p>\n<p><img src=\"https://micro.fromjason.xyz/uploads/2024/446e2f723d.jpg\" alt=\"screen shot of conversation\"></p>\n<p>Holds up spork!</p>\n",
+				"content_text": "From [techemails](https://www.threads.net/@techemails/post/C1uvzaWP3N1/):\n\n![screen shot of conversation](https://micro.fromjason.xyz/uploads/2024/446e2f723d.jpg)\n\nHolds up spork!\n\n",
+				"date_published": "2024-01-05T15:08:10-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/05/from-techemails-holds.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/05/thinking-about-a.html",
+				
+				"content_html": "<p>Thinking about a #Meta pivot to infrastructure, and the subtle physiological effects it would have on our social media behavior.</p>\n<p>The average user might keep their #Threads account, but signup for other platforms in the #Metaverse as &ldquo;sub-identities.&rdquo;</p>\n<p>For example— Taylor Swift launches a super fans platform. Would the average Swiftie migrate to the Meta-interoperable space? Or would they make a new account, one that perhaps better represents their fandom identity?</p>\n<p>Continued on <a href=\"https://mastodon.social/@fromjason/111704478890764583\">mastodon &raquo;</a></p>\n",
+				"content_text": "Thinking about a #Meta pivot to infrastructure, and the subtle physiological effects it would have on our social media behavior. \n\nThe average user might keep their #Threads account, but signup for other platforms in the #Metaverse as \"sub-identities.\"\n\nFor example— Taylor Swift launches a super fans platform. Would the average Swiftie migrate to the Meta-interoperable space? Or would they make a new account, one that perhaps better represents their fandom identity?\n\nContinued on [mastodon >>](https://mastodon.social/@fromjason/111704478890764583)\n",
+				"date_published": "2024-01-05T12:17:58-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/05/thinking-about-a.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/05/lets-grow-online.html",
+				
+				"content_html": "<p><a href=\"https://www.patreon.com/posts/lets-grow-online-35091994\">Let&rsquo;s grow online greenspace for healthy sociality &amp; mutual aid</a>:</p>\n<blockquote>\n<p>tl;dr  Now that so many are forced to use online media to communicate, let&rsquo;s use this opportunity to create many smaller virtual communities and social networks outside the enclosed world of Facebook.</p>\n</blockquote>\n<p>Seems there&rsquo;s a big ideological gap between the Rheingold, the person who coined &ldquo;social web&rdquo; some thirty years ago, and those attempting to co-opt the term today.</p>\n",
+				"content_text": "[Let's grow online greenspace for healthy sociality & mutual aid](https://www.patreon.com/posts/lets-grow-online-35091994): \n\n> tl;dr  Now that so many are forced to use online media to communicate, let's use this opportunity to create many smaller virtual communities and social networks outside the enclosed world of Facebook.\n\nSeems there's a big ideological gap between the Rheingold, the person who coined \"social web\" some thirty years ago, and those attempting to co-opt the term today.\n",
+				"date_published": "2024-01-05T06:28:37-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/05/lets-grow-online.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/04/effective-altruism-is.html",
+				
+				"content_html": "<p><a href=\"https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/\">Effective Altruism</a> is fun because billionaires get to claim they&rsquo;re charitable toward a broken system they themselves created.</p>\n<p>And as a bonus, they throw in a little of that homegrown, Stanford-style eugenics talk. It&rsquo;s a convo that always seems to creep back into liberal circles somehow. You know, the good stuff. /s</p>\n",
+				"content_text": "[Effective Altruism](https://www.truthdig.com/articles/effective-altruism-is-a-welter-of-fraud-lies-exploitation-and-eugenic-fantasies/) is fun because billionaires get to claim they're charitable toward a broken system they themselves created. \n\nAnd as a bonus, they throw in a little of that homegrown, Stanford-style eugenics talk. It's a convo that always seems to creep back into liberal circles somehow. You know, the good stuff. /s\n",
+				"date_published": "2024-01-04T22:21:12-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/04/effective-altruism-is.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/04/im-telling-ya.html",
+				
+				"content_html": "<p>I&rsquo;m telling ya, buttons are back. People want to feel something. Even if that something is tactile feedback. I don&rsquo;t hate this.</p>\n<p>From <a href=\"https://www.clicks.tech/\">Clicks</a>:</p>\n<blockquote>\n<p>Clicks brings together tactile typing with the iPhone experience. They’re the perfect pair.</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm telling ya, buttons are back. People want to feel something. Even if that something is tactile feedback. I don't hate this. \n\nFrom [Clicks](https://www.clicks.tech/):\n\n> Clicks brings together tactile typing with the iPhone experience. They’re the perfect pair.\n\n<img src=\"https://micro.fromjason.xyz/uploads/2024/d91943b847.jpg\" width=\"515\" height=\"600\" alt=\"Picture of iPhone with a keyboard case. The keyboard is placed under the iPhone and does not obstruct the screen. Caption reads: unlock the full power of iOS. \">\n",
+				"date_published": "2024-01-04T22:01:10-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/04/im-telling-ya.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/04/i-adore-jeff.html",
+				
+				"content_html": "<p>I adore Jeff Goldblum. ADORE.</p>\n<p>But, whoever thought that a Silicon Valley, Venture Capitalist-type character would make an apartment website more likable was off their rocker.</p>\n<p>The &ldquo;future is apartments&rdquo; because private equity is buying up all the houses 😬</p>\n<p>If this campaign works, it&rsquo;s 100% Goldblum&rsquo;s charm and nothing more. Again, love him. We are best friends in my mind.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I adore Jeff Goldblum. ADORE. \n\nBut, whoever thought that a Silicon Valley, Venture Capitalist-type character would make an apartment website more likable was off their rocker. \n\nThe \"future is apartments\" because private equity is buying up all the houses 😬\n\nIf this campaign works, it's 100% Goldblum's charm and nothing more. Again, love him. We are best friends in my mind.\n\n<img src=\"https://micro.fromjason.xyz/uploads/2024/129ecfe46f.jpg\" width=\"600\" height=\"300\" alt=\"Advertisement: Jeff Goldblum holding a green glowing orb. The message says : I've seen the future and its apartments. \">\n",
+				"date_published": "2024-01-04T15:07:55-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/04/i-adore-jeff.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/04/perhaps-im-biased.html",
+				
+				"content_html": "<p>Perhaps I&rsquo;m biased, but this photo is worthy of an award.</p>\n<p>This is my grandmother, Juanita, circa 1990ish. That&rsquo;s me in the background.</p>\n<p>In the 50s, Juanita migrated from Puerto Rico to The Bronx. She survived the Bronx burning, the Cross Bronx divide, the resulting heroin epidemic, and most of her children. Out of nine, two are alive today.</p>\n<p>And here she is on a family trip to a cabin— Juanita, having beat the shunning of her new country, completely worn out by a rambunctious kid.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Perhaps I'm biased, but this photo is worthy of an award. \n\nThis is my grandmother, Juanita, circa 1990ish. That's me in the background.  \n\nIn the 50s, Juanita migrated from Puerto Rico to The Bronx. She survived the Bronx burning, the Cross Bronx divide, the resulting heroin epidemic, and most of her children. Out of nine, two are alive today.\n\nAnd here she is on a family trip to a cabin— Juanita, having beat the shunning of her new country, completely worn out by a rambunctious kid.\n\n<img src=\"https://micro.fromjason.xyz/uploads/2024/50594690cc.jpg\" width=\"600\" height=\"449\" alt=\"Woman in her 70s in the foreground looking at the camera, tired. Kid on the background dancing in a blur. \"><img src=\"https://micro.fromjason.xyz/uploads/2024/e9b5bb8d72.jpg\" width=\"486\" height=\"600\" alt=\"Young women on the roof of a building in a dress. Black and white photo. \">\n",
+				"date_published": "2024-01-04T14:20:18-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/04/perhaps-im-biased.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/03/the-first-and.html",
+				
+				"content_html": "<p>The first and last Time Magazine covers for 1999.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The first and last Time Magazine covers for 1999. \n\n<img src=\"https://micro.fromjason.xyz/uploads/2024/a7a92acc34.jpg\" width=\"400\" height=\"524\" alt=\"Time magazine cover 1999: depicts Jesus with an A frame on his body that reads: The End of the world??  Jesus is walking through chaotic streets of a large city. \"><img src=\"https://micro.fromjason.xyz/uploads/2024/8bafb029a8.jpg\" width=\"459\" height=\"600\" alt=\"Time Person of the year cover: Jeff Bezos poking his head out what appears to be a pile of letters and books. \">\n",
+				"date_published": "2024-01-03T21:28:51-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/03/the-first-and.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/03/do-you-ever.html",
+				
+				"content_html": "<p>Do you ever wonder if we&rsquo;re entering a golden age of blogging? And if so, that maybe it&rsquo;s due in no small part to the rise of generative AI? I do. <em>A lot</em>.</p>\n<p>Similar to how MP3s brought back vinyl, AI prose exemplifies what the digital written word was missing— warmth.</p>\n",
+				"content_text": "Do you ever wonder if we're entering a golden age of blogging? And if so, that maybe it's due in no small part to the rise of generative AI? I do. *A lot*. \n\nSimilar to how MP3s brought back vinyl, AI prose exemplifies what the digital written word was missing— warmth.\n",
+				"date_published": "2024-01-03T19:55:41-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/03/do-you-ever.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/03/everyoneshouldblogtxt-the-library.html",
+				
+				"content_html": "<p><a href=\"https://library.xandra.cc/everyone-should-blog/\">EveryoneShouldBlog.txt | the library of alexandra</a>:</p>\n<blockquote>\n<p>someone recently commented that their life was too boring to blog about. i vehemently disagree. you could stay at home, staring at the ceiling for 12 hours a day, and i would still wonder what you think about.</p>\n</blockquote>\n<p>2024 vibes.</p>\n",
+				"content_text": "[EveryoneShouldBlog.txt | the library of alexandra](https://library.xandra.cc/everyone-should-blog/):\n\n> someone recently commented that their life was too boring to blog about. i vehemently disagree. you could stay at home, staring at the ceiling for 12 hours a day, and i would still wonder what you think about.\n\n2024 vibes.\n",
+				"date_published": "2024-01-03T19:28:06-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/03/everyoneshouldblogtxt-the-library.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/03/fake-amazon-workers.html",
+				
+				"content_html": "<p><a href=\"https://www.bbc.com/news/technology-56581266\">&lsquo;Fake&rsquo; Amazon workers defend company on Twitter (2021)</a>:</p>\n<blockquote>\n<p>Amazon has previously used this handle for its so-called Amazon Ambassadors - real employees who are paid by the firm to promote and defend it on Twitter.</p>\n</blockquote>\n<p>Wondering why Meta&rsquo;s PR/comms would coordinate a swarm of employee-led anti-Apple posts on Threads? Me too. Anyone have Bezos' phone number?</p>\n",
+				"content_text": "['Fake' Amazon workers defend company on Twitter (2021)](https://www.bbc.com/news/technology-56581266):\n\n> Amazon has previously used this handle for its so-called Amazon Ambassadors - real employees who are paid by the firm to promote and defend it on Twitter.\n\nWondering why Meta's PR/comms would coordinate a swarm of employee-led anti-Apple posts on Threads? Me too. Anyone have Bezos' phone number?\n",
+				"date_published": "2024-01-03T18:27:22-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/03/fake-amazon-workers.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/03/bloktoberfest-some-anticlimactic.html",
+				
+				"content_html": "<p><a href=\"https://www.fromjason.xyz/p/notebook/bloktoberfest-some-anticlimactic-thoughts-on-blocking/\">Bloktoberfest— Some anticlimactic thoughts on blocking</a>: I wrote some drivel on the rising trend of social media blocking, with no particular conclusions other than Musk and Zuck tend to react similarly to some things.</p>\n",
+				"content_text": "[Bloktoberfest— Some anticlimactic thoughts on blocking](https://www.fromjason.xyz/p/notebook/bloktoberfest-some-anticlimactic-thoughts-on-blocking/): I wrote some drivel on the rising trend of social media blocking, with no particular conclusions other than Musk and Zuck tend to react similarly to some things. \n",
+				"date_published": "2024-01-03T17:23:22-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/03/bloktoberfest-some-anticlimactic.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/01/02/meet-link-history.html",
 				
 				"content_html": "<p><a href=\"https://gizmodo.com/meet-link-history-facebook-s-new-way-to-track-the-we-1851134018\">Meet ‘Link History,’ Facebook’s New Way to Track the Websites You Visit</a></p>\n<blockquote>\n<p>In 2022, privacy researcher Felix Krause found that Meta injects special “keylogging” JavaScript onto the website you’re visiting that allows the company to monitor everything you type and tap on, including passwords. Other apps including TikTok do the same thing.</p>\n</blockquote>\n<p>Feeling a certain type of way about my liberal use of <code>rel=me</code> links.</p>\n",
@@ -26,7 +194,7 @@
 				"id": "http://fromjason.micro.blog/2023/12/31/my-latest-post.html",
 				
 				"content_html": "<p>My latest post is currently number one on Hacker News. Mods changed my title, but hey, that&rsquo;s show biz baby 😅</p>\n<p>I wrote about Meta and how it <a href=\"https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/\">could pivot into cloud services for social media</a>. And how regulation could play a role.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My latest post is currently number one on Hacker News. Mods changed my title, but hey, that's show biz baby 😅\n\nI wrote about Meta and how it [could pivot into cloud services for social media](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/). And how regulation could play a role. \n\n\n\n<img src=\"uploads/2023/1c4c65f068.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
+				"content_text": "My latest post is currently number one on Hacker News. Mods changed my title, but hey, that's show biz baby 😅\n\nI wrote about Meta and how it [could pivot into cloud services for social media](https://fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/). And how regulation could play a role. \n\n\n\n<img src=\"https://micro.fromjason.xyz/uploads/2023/1c4c65f068.jpg\" width=\"485\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-31T15:47:45-05:00",
 				"url": "https://micro.fromjason.xyz/2023/12/31/my-latest-post.html"
 			},
