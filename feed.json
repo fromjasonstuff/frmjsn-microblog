@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/01/13/anything-that-makes.html",
+				
+				"content_html": "<p>Anything that makes the web feel smaller is good for business. A Social Web browser would be a VC&rsquo;s wet dream:</p>\n<p>Bake-in some open source social features, like #microPub, #ActivityStream, and #RSS. Then smother it with a proprietary layer and ad network.</p>\n<p>It would be like AOL for social media— nothing but shopping and free user-generated content.</p>\n<p>Best of all, since it&rsquo;s a browser, you side-step the #AppleTax, so anything we sign up for we&rsquo;d have to call to cancel. Just like AOL, too. Wow.</p>\n",
+				"content_text": "Anything that makes the web feel smaller is good for business. A Social Web browser would be a VC's wet dream:\n\nBake-in some open source social features, like #microPub, #ActivityStream, and #RSS. Then smother it with a proprietary layer and ad network. \n\nIt would be like AOL for social media— nothing but shopping and free user-generated content. \n\nBest of all, since it's a browser, you side-step the #AppleTax, so anything we sign up for we'd have to call to cancel. Just like AOL, too. Wow. \n",
+				"date_published": "2024-01-13T20:59:09-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/13/anything-that-makes.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/13/threads-now-lets.html",
+				
+				"content_html": "<p>Threads now lets you transfer your data to Google Drive, except it didn&rsquo;t work, and now Meta has all my Google data.</p>\n<p>This &ldquo;feature&rdquo; is presumably part of the <a href=\"https://dtinit.org/\">Data Transfer Initiative</a> funded by Meta and Google. Out of morbid curiosity, I tried it.</p>\n<p>On its website, DTI states it&rsquo;s an &ldquo;organization dedicated to the mission of empowering technology users.&rdquo; Cool.</p>\n<p>It seems more likely that Big Tech figured out it was better to trade our data amongst themselves, like baseball cards— I&rsquo;ll trade you this pregnancy announcement for that postpartum diagnosis.</p>\n<p>Anyway, the first time I tried the transfer, Meta shot an error with a message that it needed more permissions. I granted. The second time, it created an empty folder in my Google Drive. The third time+, it stopped responding.</p>\n<p>Why Meta needs to see all my Google Docs, plus the names and contacts of everyone I&rsquo;ve ever shared with, so that I can move some photos is unclear.</p>\n<p>I don&rsquo;t feel very empowered, tbh.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Threads now lets you transfer your data to Google Drive, except it didn't work, and now Meta has all my Google data. \n\nThis \"feature\" is presumably part of the [Data Transfer Initiative](https://dtinit.org/) funded by Meta and Google. Out of morbid curiosity, I tried it.\n\nOn its website, DTI states it's an \"organization dedicated to the mission of empowering technology users.\" Cool. \n\nIt seems more likely that Big Tech figured out it was better to trade our data amongst themselves, like baseball cards— I'll trade you this pregnancy announcement for that postpartum diagnosis. \n\nAnyway, the first time I tried the transfer, Meta shot an error with a message that it needed more permissions. I granted. The second time, it created an empty folder in my Google Drive. The third time+, it stopped responding. \n\nWhy Meta needs to see all my Google Docs, plus the names and contacts of everyone I've ever shared with, so that I can move some photos is unclear. \n\nI don't feel very empowered, tbh. \n\n\n\n<img src=\"uploads/2024/a72bc63a89.jpg\" width=\"371\" height=\"600\" alt=\"Screenshot: Meta has this access&10;111o app vallo pellnooluntu.&10;• See and edit your documents (including settings and metadata)&10;• Create new documents&10;• Upload and download your documents&10;• Organize and delete your documents&10;• See the names and emails of people you share your documents with&10;N&10;• Share and stop sharing your documents with others&10;This app will be able to do the same things that you can do. Changes made by this application will be attributed to you.&10;There may be sensitive information in your documents, like financial records, medical reports, or photos.\">\n",
+				"date_published": "2024-01-13T10:30:35-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/13/threads-now-lets.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/11/tiktoks-billion-creator.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program\">TikTok’s $1 billion creator fund is shutting down - The Verge</a></p>\n<blockquote>\n<p>The creator fund was originally introduced in 2020, with the company promising to pay out $1 billion over the course of three years to people making the app’s viral content. Along the way, influencers and other content creators have noted the low payouts — sometimes just a few dollars for millions of views..</p>\n</blockquote>\n<p>In Feb, #TikTok sold this as a way to earn <em>more</em>. In reality, they just stopped advertising the payout cap. No law says they have to disclose.</p>\n",
+				"content_text": "[TikTok’s $1 billion creator fund is shutting down - The Verge](https://www.theverge.com/2023/11/6/23949290/tiktok-creator-fund-discontinued-monetization-creativity-program)\n\n> The creator fund was originally introduced in 2020, with the company promising to pay out $1 billion over the course of three years to people making the app’s viral content. Along the way, influencers and other content creators have noted the low payouts — sometimes just a few dollars for millions of views..\n\nIn Feb, #TikTok sold this as a way to earn *more*. In reality, they just stopped advertising the payout cap. No law says they have to disclose.\n",
+				"date_published": "2024-01-11T20:58:03-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/11/tiktoks-billion-creator.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/09/parker-molloy-on.html",
+				
+				"content_html": "<p><a href=\"https://www.threads.net/@parkermolloy/post/C14qS_CJp8q/\">Parker Molloy on Threads</a> screen recorded a Twitter search that appears to show dozens of bots responding to tweets with a boilerplate #OpenAI message.</p>\n<p>One user commented:</p>\n<blockquote>\n<p>The bot activity is coming from inside the house  (&hellip;) it appears these are stale accounts that were taken back over by XTwitter, turned into Blue Checkmarks and use AI to keep DAU/MAU and other activity metrics higher than they actually are.</p>\n</blockquote>\n<p>None of these tweet currently populate in #Twitter&rsquo;s search.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Parker Molloy on Threads](https://www.threads.net/@parkermolloy/post/C14qS_CJp8q/) screen recorded a Twitter search that appears to show dozens of bots responding to tweets with a boilerplate #OpenAI message. \n\nOne user commented:\n\n> The bot activity is coming from inside the house  (...) it appears these are stale accounts that were taken back over by XTwitter, turned into Blue Checkmarks and use AI to keep DAU/MAU and other activity metrics higher than they actually are. \n\nNone of these tweet currently populate in #Twitter's search.\n\n<img src=\"uploads/2024/86628acd88.jpg\" width=\"422\" height=\"600\" alt=\"Screen shot of multiple accounts replying to tweets. All say some variation of &quot;I cannot provide a response as it goes against OpenAI's content policy&quot;\">\n",
+				"date_published": "2024-01-09T19:55:22-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/09/parker-molloy-on.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/09/cocacola-boycott-launched.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/media/2003/jul/24/marketingandpr.colombia\">Coca-Cola boycott launched after killings at Colombian plants (2003)</a>:</p>\n<blockquote>\n<p>The unions claim Coca-Cola bottlers hired far-right militias of the United Self Defence Forces of Colombia (AUC) to murder nine union members at Colombian bottling plants in the past 13 years.</p>\n</blockquote>\n<p>And Coca-Cola is one of the <em>better liked</em> corporations. Let&rsquo;s hope they never get a cocacola.social account 😅</p>\n",
+				"content_text": "[Coca-Cola boycott launched after killings at Colombian plants (2003)](https://www.theguardian.com/media/2003/jul/24/marketingandpr.colombia):\n\n> The unions claim Coca-Cola bottlers hired far-right militias of the United Self Defence Forces of Colombia (AUC) to murder nine union members at Colombian bottling plants in the past 13 years.\n\nAnd Coca-Cola is one of the *better liked* corporations. Let's hope they never get a cocacola.social account 😅\n",
+				"date_published": "2024-01-09T17:56:40-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/09/cocacola-boycott-launched.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/09/protocols-not-platforms.html",
+				
+				"content_html": "<p><a href=\"https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech\">Protocols, Not Platforms (2019)</a>:</p>\n<blockquote>\n<p>The benefits of building a service as a platform are fairly obvious: the owner has ultimate control over that platform and thus is much better positioned to monetize the platforms via advertising of some form (or other ancillary services). This does, however, incentivize these platforms to acquire an ever increasing amount of data from their users to better target them.</p>\n</blockquote>\n<p>Hypothetically, if Meta adopted this ideology, and also launched ad revenue share, how are end users better off?</p>\n",
+				"content_text": "[Protocols, Not Platforms (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech):\n\n> The benefits of building a service as a platform are fairly obvious: the owner has ultimate control over that platform and thus is much better positioned to monetize the platforms via advertising of some form (or other ancillary services). This does, however, incentivize these platforms to acquire an ever increasing amount of data from their users to better target them.\n\nHypothetically, if Meta adopted this ideology, and also launched ad revenue share, how are end users better off?\n",
+				"date_published": "2024-01-09T11:09:11-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/09/protocols-not-platforms.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/09/tim-cook-wants.html",
+				
+				"content_html": "<p><a href=\"https://fromjasonxpost.medium.com/tim-cook-wants-facebook-dead-and-his-strategies-are-working-a8de85dd8666\">Tim Cook wants Facebook dead and his strategies are working (2020)</a></p>\n<blockquote>\n<p>Vegas casinos famously design their interiors like mazes without a single clock in sight. Why? Average time on site. The longer you’re inside their doors, the more money you will spend. But, what if The Bellagio didn’t own the building, and the landlord decided to give each visitor a map and then put up clocks on every wall. It would likely hurt business, yeah?”</p>\n</blockquote>\n<p>Wrote this back in 2020. I think it still holds up?</p>\n",
+				"content_text": "[Tim Cook wants Facebook dead and his strategies are working (2020)](https://fromjasonxpost.medium.com/tim-cook-wants-facebook-dead-and-his-strategies-are-working-a8de85dd8666)\n\n> Vegas casinos famously design their interiors like mazes without a single clock in sight. Why? Average time on site. The longer you’re inside their doors, the more money you will spend. But, what if The Bellagio didn’t own the building, and the landlord decided to give each visitor a map and then put up clocks on every wall. It would likely hurt business, yeah?”\n\nWrote this back in 2020. I think it still holds up?\n",
+				"date_published": "2024-01-09T07:51:51-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/09/tim-cook-wants.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/01/08/characteristics-and-prevalence.html",
+				
+				"content_html": "<p><a href=\"https://arxiv.org/abs/2401.02627\">Characteristics and prevalence of fake social media profiles with AI-generated faces</a>:</p>\n<blockquote>\n<p>We present a dataset of 1,353 such accounts and show that they are used to spread scams, spam, and amplify coordinated messages, among other inauthentic activities.</p>\n</blockquote>\n<p>Ok. Hear me out. How would this work on a platform where <em>everyone</em> uses illustrated profile pictures and obscure sites to demonstrate their digital identities?</p>\n",
+				"content_text": "[Characteristics and prevalence of fake social media profiles with AI-generated faces](https://arxiv.org/abs/2401.02627):\n\n> We present a dataset of 1,353 such accounts and show that they are used to spread scams, spam, and amplify coordinated messages, among other inauthentic activities.\n\nOk. Hear me out. How would this work on a platform where *everyone* uses illustrated profile pictures and obscure sites to demonstrate their digital identities?\n",
+				"date_published": "2024-01-08T19:48:06-05:00",
+				"url": "https://micro.fromjason.xyz/2024/01/08/characteristics-and-prevalence.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/01/08/where-have-all.html",
 				
 				"content_html": "<p><a href=\"https://fromjason.xyz/p/notebook/where-have-all-the-websites-gone/\">Where have all the websites gone?</a>:</p>\n<p>That&rsquo;s the question one Twitter user asked this thanksgiving, and the post went viral. I haven&rsquo;t stopped thinking about it.</p>\n<p>I wrote about this question, some potential answers, and maybe one solution. Not <em>the</em> solution. But one of many.</p>\n",
