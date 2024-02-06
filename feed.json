@@ -7,12 +7,131 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/02/06/faang-facebook-amazon.html",
+				
+				"content_html": "<p>FAANG (Facebook Amazon Apple Netflix Google) is an outdated paradigm for how we quantify ownership of the internet.</p>\n<p>While the companies are mostly unchanged, it&rsquo;s no longer about internet traffic, or even stock prices. It&rsquo;s about a mass retreat to good ol' fashioned infrastructure monopolies.</p>\n<p>The internet has a new MAAMA— Microsoft, Amazon, Alphabet, Meta and Apple (I&rsquo;m sorry for the acronym) and they&rsquo;re here to claim cloud computing for the next quarter century.</p>\n",
+				"content_text": "FAANG (Facebook Amazon Apple Netflix Google) is an outdated paradigm for how we quantify ownership of the internet. \r\n\r\nWhile the companies are mostly unchanged, it's no longer about internet traffic, or even stock prices. It's about a mass retreat to good ol' fashioned infrastructure monopolies. \r\n\r\nThe internet has a new MAAMA— Microsoft, Amazon, Alphabet, Meta and Apple (I'm sorry for the acronym) and they're here to claim cloud computing for the next quarter century. \r\n\r\n",
+				"date_published": "2024-02-06T15:04:05-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/06/faang-facebook-amazon.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/06/bluesky-social-network.html",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol\">Bluesky social network drops invite-only sign ups - The Verge</a>:</p>\n<blockquote>\n<p>Even with ActivityPub taking off, Bluesky is ready to have its moment in the spotlight again. Starting this week, the app is removing its invite system and throwing open its doors to anyone who wants to sign up. And later this month, it plans to begin letting outside developers host their own servers on its underlying AT Protocol that’s designed to rival ActivityPub.</p>\n</blockquote>\n<p>Since Threads, this has always felt more like Jack vs Zuck, than ActivityPub vs AT Protocol.</p>\n",
+				"content_text": "[Bluesky social network drops invite-only sign ups - The Verge](https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol):\n\n> Even with ActivityPub taking off, Bluesky is ready to have its moment in the spotlight again. Starting this week, the app is removing its invite system and throwing open its doors to anyone who wants to sign up. And later this month, it plans to begin letting outside developers host their own servers on its underlying AT Protocol that’s designed to rival ActivityPub. \n\nSince Threads, this has always felt more like Jack vs Zuck, than ActivityPub vs AT Protocol. \n",
+				"date_published": "2024-02-06T09:39:00-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/06/bluesky-social-network.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/05/what-share-of.html",
+				
+				"content_html": "<p><a href=\"https://blog.heim.xyz/share-of-ai-chips/\">What share of all chips are high-end data center AI chips?</a></p>\n<blockquote>\n<p>In 2021, the semiconductor industry reportedly produced about 1.15 trillion units (Kharpal, 2022). As calculated above, the production of high-end AI chips in 2022 was likely less than 3 million. This suggests that high-end AI chips only accounted for less than 1:4,000 (0.00026%) of all chips produced.</p>\n</blockquote>\n<p>I&rsquo;m sorry, HOW MANY UNITS?</p>\n",
+				"content_text": "[What share of all chips are high-end data center AI chips?](https://blog.heim.xyz/share-of-ai-chips/)\n\n> In 2021, the semiconductor industry reportedly produced about 1.15 trillion units (Kharpal, 2022). As calculated above, the production of high-end AI chips in 2022 was likely less than 3 million. This suggests that high-end AI chips only accounted for less than 1:4,000 (0.00026%) of all chips produced.\n\nI'm sorry, HOW MANY UNITS? \n",
+				"date_published": "2024-02-05T21:26:54-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/05/what-share-of.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/05/hate-to-be.html",
+				
+				"content_html": "<p>Hate to be that guy (i love it) but, The Verge&rsquo;s attempt to appeal to a younger audience by designing mini-sites to look like the small web or the indie web doesn&rsquo;t vibe with what those sites usually represent— data privacy, independence, and non-corporate reach.</p>\n<p>Shout out to the journalist and designer, though. It reads and looks great.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hate to be that guy (i love it) but, The Verge's attempt to appeal to a younger audience by designing mini-sites to look like the small web or the indie web doesn't vibe with what those sites usually represent— data privacy, independence, and non-corporate reach. \r\n\r\nShout out to the journalist and designer, though. It reads and looks great.\n\n<img src=\"uploads/2024/067932e3-c43c-4dff-9fe6-5003d44cea73.jpeg\" width=\"600\" height=\"600\" alt=\"Two panel:   Left: a cool white and black page design. The headline reads The Great Fiction of AI.   Right: screenshot of websites sorted by trackers contacted. Vox and Verge are number 2 and 3. \">\n",
+				"date_published": "2024-02-05T13:09:23-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/05/hate-to-be.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/05/theres-a-growing.html",
+				
+				"content_html": "<p>There&rsquo;s a growing curiosity and invigorated appreciation for physical buttons. Apple, with its crusade to eliminate moving parts, is in a bit of a jam. My guess is the 2016 Macbook Pro was a step too far, and now people are slowly revolting.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "There's a growing curiosity and invigorated appreciation for physical buttons. Apple, with its crusade to eliminate moving parts, is in a bit of a jam. My guess is the 2016 Macbook Pro was a step too far, and now people are slowly revolting. \n\n\n\n<img src=\"uploads/2024/img-3757.webp\" width=\"600\" height=\"400\" alt=\"Rabbit R1 \"><img src=\"uploads/2024/img-3756.jpeg\" width=\"600\" height=\"313\" alt=\"Playdate \"><img src=\"uploads/2024/img-3760.webp\" width=\"600\" height=\"337\" alt=\"IKEA x Teenage engineering Speaker\"><img src=\"uploads/2024/img-3761.jpeg\" width=\"600\" height=\"600\" alt=\"Rewind tapeplayer\"><img src=\"uploads/2024/img-3762.jpeg\" width=\"600\" height=\"337\" alt=\"T-7 recorder\">\n",
+				"date_published": "2024-02-05T09:51:16-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/05/theres-a-growing.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/make-a-tiny.html",
+				
+				"content_html": "<p><a href=\"https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/\">Make A Tiny Raspberry Pi Based Cyberdeck - The DIY Life</a>:</p>\n<p>cute!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Make A Tiny Raspberry Pi Based Cyberdeck - The DIY Life](https://www.the-diy-life.com/make-a-tiny-raspberry-pi-based-cyberdeck/):\r\n\r\n\r\ncute!\n\n<img src=\"https://micro.fromjason.xyz/uploads/2024/img-3754.jpeg\" width=\"600\" height=\"450\" alt=\"Tiny laptop computer fits in persons hand. \">\n",
+				"date_published": "2024-02-04T22:27:14-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/make-a-tiny.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/what-metas-fediverse.html",
+				
+				"content_html": "<p><a href=\"https://www.wired.com/story/meta-threads-fediverse-interoperability-rachel-lambert-interview/\">What Meta’s Fediverse Plans Mean for Threads Users | WIRED</a>:</p>\n<blockquote>\n<p>“It really does feel like we&rsquo;re kind of on the verge of this new era of social media,” Lambert says. “We have some ideas of what it might look like, but there&rsquo;s still so much for us to learn.”</p>\n</blockquote>\n<p>This idea Meta and its affiliates push that Zuck is kinda just winging it with some napkin thoughts is very very silly. And it&rsquo;s doing nothing to build trust with the Threads interpolation</p>\n",
+				"content_text": "[What Meta’s Fediverse Plans Mean for Threads Users | WIRED](https://www.wired.com/story/meta-threads-fediverse-interoperability-rachel-lambert-interview/):\n\n> “It really does feel like we're kind of on the verge of this new era of social media,” Lambert says. “We have some ideas of what it might look like, but there's still so much for us to learn.”\n\nThis idea Meta and its affiliates push that Zuck is kinda just winging it with some napkin thoughts is very very silly. And it's doing nothing to build trust with the Threads interpolation\n",
+				"date_published": "2024-02-04T20:35:37-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/what-metas-fediverse.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/netflix-architecture-how.html",
+				
+				"content_html": "<p><a href=\"https://www.cloudzero.com/blog/netflix-aws/#\">Netflix Architecture: How Much Does Netflix&rsquo;s AWS Cost?</a>:</p>\n<blockquote>\n<p>Netflix uses AWS for almost everything cloud computing. That includes online storage, a recommendation engine, video transcoding, databases, and analytics. So most of the $1 billion Netflix plans to spend on cloud services will go into Amazon Cloud Services.</p>\n</blockquote>\n<p>If a FAANG company uses AWS, surely there&rsquo;s a market for social media cloud services. hashtag-Meta.</p>\n",
+				"content_text": "[Netflix Architecture: How Much Does Netflix's AWS Cost?](https://www.cloudzero.com/blog/netflix-aws/#):\n\n> Netflix uses AWS for almost everything cloud computing. That includes online storage, a recommendation engine, video transcoding, databases, and analytics. So most of the $1 billion Netflix plans to spend on cloud services will go into Amazon Cloud Services.\n\nIf a FAANG company uses AWS, surely there's a market for social media cloud services. hashtag-Meta. \n",
+				"date_published": "2024-02-04T15:37:49-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/netflix-architecture-how.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/man-is-charged.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2024/01/31/us/pennsylvania-man-youtube-murder-father.html\">Man Is Charged With Killing His Father After Posting Grisly YouTube Video - The New York Times</a>:</p>\n<blockquote>\n<p>YouTube videos are reviewed by a combination of humans and machines, according to the company. It’s unclear, however, how such a graphic video could stay online for five hours before being taken down, and a YouTube spokeswoman did not answer questions about why it took that long for the video to be removed.</p>\n</blockquote>\n<p>That combination leans heavily on machines is my guess. Also, these articles rarely identify which platform the person was radicalized. Why?</p>\n",
+				"content_text": "[Man Is Charged With Killing His Father After Posting Grisly YouTube Video - The New York Times](https://www.nytimes.com/2024/01/31/us/pennsylvania-man-youtube-murder-father.html):\r\n\r\n> YouTube videos are reviewed by a combination of humans and machines, according to the company. It’s unclear, however, how such a graphic video could stay online for five hours before being taken down, and a YouTube spokeswoman did not answer questions about why it took that long for the video to be removed.\r\n\r\nThat combination leans heavily on machines is my guess. Also, these articles rarely identify which platform the person was radicalized. Why?\n",
+				"date_published": "2024-02-04T15:20:51-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/man-is-charged.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/propaganda-model-according.html",
+				
+				"content_html": "<p><a href=\"https://www.communicationtheory.org/propaganda-model/\">Propaganda Model</a></p>\n<blockquote>\n<p>According to the theory media operates as a business which sells its products (readers and subscribers) to other business entities that do their advertisements in media, rather than performing the function of disseminating news for the public. Here the news is being misshaped and reformed from its original form. Herman and Chomsky call the factors which misshape news as filters. The news is being filtered by each of these factors before they reaches its audience or general public.</p>\n</blockquote>\n<p>Bingo bongo.</p>\n",
+				"content_text": "[Propaganda Model](https://www.communicationtheory.org/propaganda-model/)\n\n> According to the theory media operates as a business which sells its products (readers and subscribers) to other business entities that do their advertisements in media, rather than performing the function of disseminating news for the public. Here the news is being misshaped and reformed from its original form. Herman and Chomsky call the factors which misshape news as filters. The news is being filtered by each of these factors before they reaches its audience or general public.\n\nBingo bongo. \n",
+				"date_published": "2024-02-04T11:44:04-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/propaganda-model-according.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/04/the-most-beneficial.html",
+				
+				"content_html": "<p>The most beneficial writing habit I&rsquo;ve acquired is to remember to just write first.</p>\n<p>When I stopped worrying about things like tone, grammar, spelling, and structure, my first drafts got longer.</p>\n<p>Longer first drafts gave me more clay to mold or remove later.</p>\n<p>And you know what? Sometimes I keep the non-traditional sentence or two, that make the piece fun. I don&rsquo;t get that opportunity when I edit as I write. (I still edit as I write but I&rsquo;m getting better ☺️)</p>\n",
+				"content_text": "The most beneficial writing habit I've acquired is to remember to just write first. \r\n\r\nWhen I stopped worrying about things like tone, grammar, spelling, and structure, my first drafts got longer. \r\n\r\nLonger first drafts gave me more clay to mold or remove later. \r\n\r\nAnd you know what? Sometimes I keep the non-traditional sentence or two, that make the piece fun. I don't get that opportunity when I edit as I write. (I still edit as I write but I'm getting better ☺️)\n",
+				"date_published": "2024-02-04T08:02:49-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/04/the-most-beneficial.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/03/151849.html",
+				
+				"content_html": "<p><a href=\"https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/\">Critical vulnerability in Mastodon sparks patching frenzy • The Register</a></p>\n<blockquote>\n<p>Using specially crafted media files could have allowed attackers to create or overwrite any files, allowing for denial of service or remote code execution.</p>\n</blockquote>\n<p>Huh.</p>\n",
+				"content_text": "[Critical vulnerability in Mastodon sparks patching frenzy • The Register](https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/)\n\n> Using specially crafted media files could have allowed attackers to create or overwrite any files, allowing for denial of service or remote code execution.\n\nHuh.\n",
+				"date_published": "2024-02-03T15:18:49-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/03/151849.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/03/critical-vulnerability-in.html",
+				
+				"content_html": "<p><a href=\"https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/\">Critical vulnerability in Mastodon sparks patching frenzy • The Register</a></p>\n<blockquote>\n<p>&ldquo;This is one of the major trade-offs between Mastodon and a centralized social media company like Meta or Instagram, there&rsquo;s just not the same investment in security because there&rsquo;s not massive revenue supporting the platform, and each owner of an instance has to perform security management on their own. </p>\n</blockquote>\n<p>Here it starts.</p>\n",
+				"content_text": "[Critical vulnerability in Mastodon sparks patching frenzy • The Register](https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/)\n\n> \"This is one of the major trade-offs between Mastodon and a centralized social media company like Meta or Instagram, there's just not the same investment in security because there's not massive revenue supporting the platform, and each owner of an instance has to perform security management on their own. \n\nHere it starts. \n",
+				"date_published": "2024-02-03T15:11:41-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/03/critical-vulnerability-in.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/02/the-rise-of.html",
+				
+				"content_html": "<p><a href=\"https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/\">The Rise of Techno-authoritarianism - The Atlantic</a></p>\n<blockquote>\n<p>Silicon Valley, under the sway of its worst technocratic impulses, is following the playbook established in the mass scaling and monopolization of the social web.</p>\n</blockquote>\n<p>I think this article is the closest thing we have to understanding the Threads / Mastodon interpolation initiative. At the very least, it gives us a framework to understand what feels like a heavily coordinated march.</p>\n<p>What really drives this home; what transforms it from a simple article into a manifesto, is the ending:</p>\n<blockquote>\n<p>We do not have to live in the world the new technocrats are designing for us. We do not have to acquiesce to their growing project of dehumanization and data mining. Each of us has agency.</p>\n<p>No more “build it because we can.” No more algorithmic feedbags. No more infrastructure designed to make the people less powerful and the powerful more controlling. Every day we vote with our attention; it is precious, and desperately wanted by those who will use it against us for their own profit and political goals. Don’t let them.</p>\n</blockquote>\n<p>Don&rsquo;t let them.</p>\n<p><a href=\"https://archive.ph/2024.02.01-174027/https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/\">Archive link</a></p>\n",
+				"content_text": "[The Rise of Techno-authoritarianism - The Atlantic](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)\n\n> Silicon Valley, under the sway of its worst technocratic impulses, is following the playbook established in the mass scaling and monopolization of the social web. \n\nI think this article is the closest thing we have to understanding the Threads / Mastodon interpolation initiative. At the very least, it gives us a framework to understand what feels like a heavily coordinated march. \n\nWhat really drives this home; what transforms it from a simple article into a manifesto, is the ending:\n\n> We do not have to live in the world the new technocrats are designing for us. We do not have to acquiesce to their growing project of dehumanization and data mining. Each of us has agency.\n>\n> No more “build it because we can.” No more algorithmic feedbags. No more infrastructure designed to make the people less powerful and the powerful more controlling. Every day we vote with our attention; it is precious, and desperately wanted by those who will use it against us for their own profit and political goals. Don’t let them.\n\nDon't let them.\n\n[Archive link](https://archive.ph/2024.02.01-174027/https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/)\n",
+				"date_published": "2024-02-02T13:30:37-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/02/the-rise-of.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/02/01/the-rise-of.html",
 				
-				"content_html": "<p><a href=\"https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/\">The Rise of Techno-authoritarianism - The Atlantic</a>:</p>\n<blockquote>\n<p>They tend to hold eccentric beliefs: that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can; that frictionless information flow is the highest value regardless of the information’s quality; that privacy is an archaic concept; that we should welcome the day when machine intelligence surpasses our own.</p>\n</blockquote>\n<p>I linked to this article before, but this quote is also worth highlighting. It&rsquo;s a hair to the right of the pro-#Meta / #Threads discourse.</p>\n",
-				"content_text": "[The Rise of Techno-authoritarianism - The Atlantic](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/):\n\n> They tend to hold eccentric beliefs: that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can; that frictionless information flow is the highest value regardless of the information’s quality; that privacy is an archaic concept; that we should welcome the day when machine intelligence surpasses our own. \n\nI linked to this article before, but this quote is also worth highlighting. It's a hair to the right of the pro-#Meta / #Threads discourse.\n",
+				"content_html": "<p><a href=\"https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/\">The Rise of Techno-authoritarianism - The Atlantic</a>:</p>\n<blockquote>\n<p>They tend to hold eccentric beliefs: that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can; that frictionless information flow is the highest value regardless of the information’s quality; that privacy is an archaic concept; that we should welcome the day when machine intelligence surpasses our own.</p>\n</blockquote>\n<p>I linked to this article before, but this quote is also worth highlighting. It&rsquo;s a hair to the right of the pro-Meta / Threads discourse.</p>\n",
+				"content_text": "[The Rise of Techno-authoritarianism - The Atlantic](https://www.theatlantic.com/magazine/archive/2024/03/facebook-meta-silicon-valley-politics/677168/):\n\n> They tend to hold eccentric beliefs: that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can; that frictionless information flow is the highest value regardless of the information’s quality; that privacy is an archaic concept; that we should welcome the day when machine intelligence surpasses our own. \n\nI linked to this article before, but this quote is also worth highlighting. It's a hair to the right of the pro-Meta / Threads discourse.\n",
 				"date_published": "2024-02-01T11:43:27-05:00",
-				"url": "https://micro.fromjason.xyz/2024/02/01/the-rise-of.html"
+				"url": "https://micro.fromjason.xyz/2024/02/01/the-rise-of.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://fromjason.micro.blog/2024/01/31/re-amazon-uses.html",
