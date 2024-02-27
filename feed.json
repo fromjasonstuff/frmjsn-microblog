@@ -7,12 +7,45 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/02/27/attached-to-technology.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2010/06/07/technology/07brain.html\">Attached to Technology and Paying a Price - The New York Times (2010)</a>:</p>\n<blockquote>\n<p>He goes to sleep with a laptop or iPhone on his chest, and when he wakes, he goes online. He and Mrs. Campbell, 39, head to the tidy kitchen in their four-bedroom hillside rental in Orinda, an affluent suburb of San Francisco, where she makes breakfast and watches a TV news feed in the corner of the computer screen while he uses the rest of the monitor to check his e-mail.</p>\n</blockquote>\n<p>All this seems so quaint now.</p>\n",
+				"content_text": "[Attached to Technology and Paying a Price - The New York Times (2010)](https://www.nytimes.com/2010/06/07/technology/07brain.html):\n\n> He goes to sleep with a laptop or iPhone on his chest, and when he wakes, he goes online. He and Mrs. Campbell, 39, head to the tidy kitchen in their four-bedroom hillside rental in Orinda, an affluent suburb of San Francisco, where she makes breakfast and watches a TV news feed in the corner of the computer screen while he uses the rest of the monitor to check his e-mail.\n\nAll this seems so quaint now. \n",
+				"date_published": "2024-02-27T11:44:00-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/27/attached-to-technology.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/21/meta-tests-crossposting.html",
+				
+				"content_html": "<p><a href=\"https://techcrunch.com/2024/02/21/meta-tests-cross-posting-from-facebook-to-its-twitter-x-competitor-threads/\">Meta tests cross-posting from Facebook to its Twitter/X competitor, Threads | TechCrunch</a>:</p>\n<blockquote>\n<p>The addition could help content creators who regularly post photos or other media along with text updates from the hassles of having to post in multiple places. It also ties Threads more closely to Meta’s larger app ecosystem, which could potentially give Threads’ app a boost, if the test rolls out more broadly.</p>\n</blockquote>\n<p>Neat. 🙃</p>\n",
+				"content_text": "[Meta tests cross-posting from Facebook to its Twitter/X competitor, Threads | TechCrunch](https://techcrunch.com/2024/02/21/meta-tests-cross-posting-from-facebook-to-its-twitter-x-competitor-threads/):\n\n> The addition could help content creators who regularly post photos or other media along with text updates from the hassles of having to post in multiple places. It also ties Threads more closely to Meta’s larger app ecosystem, which could potentially give Threads’ app a boost, if the test rolls out more broadly. \n\nNeat. 🙃\n",
+				"date_published": "2024-02-21T13:00:28-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/21/meta-tests-crossposting.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/19/aicom-now-forwards.html",
+				
+				"content_html": "<p><a href=\"https://ai.com\">AI.com</a> now forwards to a Youtube video by tech journalist Marques Brownlee (MKBHD). The video is about Open AI&rsquo;s new text-to-video service Sora.</p>\n<p>the domain might be owned by Elon Musk? But its hard to say? Reports on ownership are unclear, and rely on the fact that AI.com once forwarded to X.ai.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[AI.com](https://ai.com) now forwards to a Youtube video by tech journalist Marques Brownlee (MKBHD). The video is about Open AI's new text-to-video service Sora. \r\n\r\nthe domain might be owned by Elon Musk? But its hard to say? Reports on ownership are unclear, and rely on the fact that AI.com once forwarded to X.ai. \n\n<img src=\"uploads/2024/img-3964.jpeg\" width=\"600\" height=\"271\" alt=\"\">\n",
+				"date_published": "2024-02-19T18:14:22-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/19/aicom-now-forwards.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/02/19/meta-warns-it.html",
+				
+				"content_html": "<p><a href=\"https://www.euronews.com/next/2022/02/07/meta-threatens-to-shut-down-facebook-and-instagram-in-europe-over-data-transfer-issues\">Meta warns it may shut Facebook in Europe but EU leaders say life would be &lsquo;very good&rsquo; without it | Euronews</a>:</p>\n<blockquote>\n<p>The issue comes down to European data regulations that prevent Meta, the company formerly known as Facebook, from transferring, storing and processing Europeans’ data on US-based servers.</p>\n</blockquote>\n<p>Can&rsquo;t really make a Metaverse if you can&rsquo;t cross borders with our data, I guess.</p>\n",
+				"content_text": "[Meta warns it may shut Facebook in Europe but EU leaders say life would be 'very good' without it | Euronews](https://www.euronews.com/next/2022/02/07/meta-threatens-to-shut-down-facebook-and-instagram-in-europe-over-data-transfer-issues):\n\n> The issue comes down to European data regulations that prevent Meta, the company formerly known as Facebook, from transferring, storing and processing Europeans’ data on US-based servers.\n\nCan't really make a Metaverse if you can't cross borders with our data, I guess. \n",
+				"date_published": "2024-02-19T15:11:09-05:00",
+				"url": "https://micro.fromjason.xyz/2024/02/19/meta-warns-it.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/02/19/reddit-is-said.html",
 				
 				"content_html": "<p><a href=\"https://archive.ph/caW1Y\">Reddit Is Said to Sign AI Content Licensing Deal Ahead of IPO - Bloomberg</a>:</p>\n<blockquote>\n<p>The San Francisco-based firm told prospective investors in its IPO that it had signed the deal, worth about $60 million on an annualized basis, earlier this year, the people said. Reddit’s agreement with an unnamed large AI company could be a model for future contracts of a similar nature, one of the people said.</p>\n</blockquote>\n<p>Regardless of the order we publish, we do not own our content if it lives on for-profit platforms.</p>\n",
 				"content_text": "[Reddit Is Said to Sign AI Content Licensing Deal Ahead of IPO - Bloomberg](https://archive.ph/caW1Y):\n\n> The San Francisco-based firm told prospective investors in its IPO that it had signed the deal, worth about $60 million on an annualized basis, earlier this year, the people said. Reddit’s agreement with an unnamed large AI company could be a model for future contracts of a similar nature, one of the people said.\n\nRegardless of the order we publish, we do not own our content if it lives on for-profit platforms. \n",
 				"date_published": "2024-02-19T11:40:22-05:00",
-				"url": "https://micro.fromjason.xyz/2024/02/19/reddit-is-said.html"
+				"url": "https://micro.fromjason.xyz/2024/02/19/reddit-is-said.html",
+				"tags": ["Tech"]
 			},
 			{
 				"id": "http://fromjason.micro.blog/2024/02/14/pluralistic-my-mcluhan.html",
