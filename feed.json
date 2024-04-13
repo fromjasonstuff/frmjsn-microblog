@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/04/13/facebook-knows-you.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2015/01/20/science/facebook-knows-you-better-than-anyone-else.html\">Facebook Knows You Better Than Anyone Else - The New York Times (2015)</a>:</p>\n<blockquote>\n<p>Given enough data, the algorithm was better able to predict a person’s personality traits than any of the human participants. It needed access to just 10 likes to beat a work colleague, 70 to beat a roommate, 150 to beat a parent or sibling, and 300 to beat a spouse.</p>\n</blockquote>\n<p>This story was published a full three years before the NYT broke the Cambridge Analytica scandal.</p>\n",
+				"content_text": "[Facebook Knows You Better Than Anyone Else - The New York Times (2015)](https://www.nytimes.com/2015/01/20/science/facebook-knows-you-better-than-anyone-else.html):\n\n> Given enough data, the algorithm was better able to predict a person’s personality traits than any of the human participants. It needed access to just 10 likes to beat a work colleague, 70 to beat a roommate, 150 to beat a parent or sibling, and 300 to beat a spouse.\n\nThis story was published a full three years before the NYT broke the Cambridge Analytica scandal. \n",
+				"date_published": "2024-04-13T11:17:05-04:00",
+				"url": "https://micro.fromjason.xyz/2024/04/13/facebook-knows-you.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/04/07/jay-graber-building.html",
+				
+				"content_html": "<p><a href=\"https://protocol.ai/blog/transcription-bluesky-blog/\">Jay Graber: Building Bluesky and a Decentralized Social Media Protocol | Protocol Labs</a></p>\n<blockquote>\n<p>If centralized platforms are governed like monarchies, federated networks are governed like little feudal societies. There isn&rsquo;t just one king ruling over the whole network but there are smaller lords who still have absolute power over their domain.</p>\n</blockquote>\n",
+				"content_text": "[Jay Graber: Building Bluesky and a Decentralized Social Media Protocol | Protocol Labs](https://protocol.ai/blog/transcription-bluesky-blog/)\n\n> If centralized platforms are governed like monarchies, federated networks are governed like little feudal societies. There isn't just one king ruling over the whole network but there are smaller lords who still have absolute power over their domain.\n\n",
+				"date_published": "2024-04-07T17:28:10-04:00",
+				"url": "https://micro.fromjason.xyz/2024/04/07/jay-graber-building.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/04/06/what-is-decentralization.html",
 				
 				"content_html": "<p><a href=\"https://fieldnotes.resistant.tech/what-is-decentralization/\">What is Decentralization? · Field Notes</a></p>\n<blockquote>\n<p>In it’s simplest definition, decentralization is the degree to which an entity within the system can resist coercion and still function as part of the system. Now be careful, coercion doesn’t mean force, it means negative incentives to align with an authority.</p>\n</blockquote>\n",
