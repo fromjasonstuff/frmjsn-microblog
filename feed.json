@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/09/05/daring-fireball-i.html",
+				
+				"content_html": "<p><a href=\"https://daringfireball.net/\">Daring Fireball</a></p>\n<blockquote>\n<p>I have so much respect for Cheney. Her father too, but he’s retired&hellip; And nothing — not climate change or the environment, not reproductive rights, and certainly not fucking tax rates — nothing matters more than support for democracy itself and the rule of law.</p>\n</blockquote>\n<p>The tech community deserves better than John Gruber.</p>\n",
+				"content_text": "[Daring Fireball](https://daringfireball.net/)\n\n> I have so much respect for Cheney. Her father too, but he’s retired... And nothing — not climate change or the environment, not reproductive rights, and certainly not fucking tax rates — nothing matters more than support for democracy itself and the rule of law.\n\nThe tech community deserves better than John Gruber. \n",
+				"date_published": "2024-09-05T13:26:16-04:00",
+				"url": "https://micro.fromjason.xyz/2024/09/05/daring-fireball-i.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/07/14/trump-rally-shooting.html",
 				
 				"content_html": "<p><a href=\"https://www.axios.com/2024/07/14/house-democrats-biden-trump-rally-shooting\">Trump rally shooting upends Democrats' crisis over Biden candidacy</a></p>\n<blockquote>\n<p>But the second senior House Democrat offered one reason for why it might: &ldquo;We&rsquo;ve all resigned ourselves to a second Trump presidency.&rdquo;</p>\n</blockquote>\n<p>Yikes.</p>\n",
@@ -17,8 +25,8 @@
 			{
 				"id": "http://fromjason.micro.blog/2024/06/14/interesting-read-barack.html",
 				
-				"content_html": "<p>Interesting read: <a href=\"https://www.wired.com/images_blogs/threatlevel/2009/04/obamatechplan.pdf\">Barack Obama&rsquo;s social media strategy for his first presidential campaign</a>.</p>\n",
-				"content_text": "Interesting read: [Barack Obama's social media strategy for his first presidential campaign](https://www.wired.com/images_blogs/threatlevel/2009/04/obamatechplan.pdf). \n",
+				"content_html": "<p>Interesting read: <a href=\"https://micro.fromjason.xyz/uploads/2024/obamatechplan.pdf\">Barack Obama&rsquo;s social media strategy for his first presidential campaign</a>.</p>\n<p><em>FYI: Original source was Wired.com but the link no longer works. Per Way Back Machine, the link was removed sometime right after I published it to my blogs and socials. Hooray for the web archive!</em></p>\n",
+				"content_text": "Interesting read: [Barack Obama's social media strategy for his first presidential campaign](https://micro.fromjason.xyz/uploads/2024/obamatechplan.pdf).\n\n*FYI: Original source was Wired.com but the link no longer works. Per Way Back Machine, the link was removed sometime right after I published it to my blogs and socials. Hooray for the web archive!*\n\n\n",
 				"date_published": "2024-06-14T11:36:30-04:00",
 				"url": "https://micro.fromjason.xyz/2024/06/14/interesting-read-barack.html"
 			},
