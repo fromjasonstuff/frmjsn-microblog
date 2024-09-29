@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/09/29/mark-zuckerberg-ship.html",
+				
+				"content_html": "<p><a href=\"https://www.techemails.com/p/mark-zuckerberg-ship-photos-app\">Mark Zuckerberg: &ldquo;Ship the app&rdquo; - Internal Tech Emails</a>:</p>\n<blockquote>\n<p>If Instagram continues to kick ass on mobile or if Google buys them, then over the next few years they could easily add pieces of their service that copy what we&rsquo;re doing now, and if they have a growing number of people&rsquo;s photos then that&rsquo;s a real issue for us.</p>\n</blockquote>\n",
+				"content_text": "[Mark Zuckerberg: \"Ship the app\" - Internal Tech Emails](https://www.techemails.com/p/mark-zuckerberg-ship-photos-app):\n\n>  If Instagram continues to kick ass on mobile or if Google buys them, then over the next few years they could easily add pieces of their service that copy what we're doing now, and if they have a growing number of people's photos then that's a real issue for us.\n\n",
+				"date_published": "2024-09-29T17:48:48-04:00",
+				"url": "https://micro.fromjason.xyz/2024/09/29/mark-zuckerberg-ship.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/09/26/computational-power-and.html",
+				
+				"content_html": "<p><a href=\"https://ainowinstitute.org/publication/policy/compute-and-ai\">Computational Power and AI - AI Now Institute</a>:</p>\n<blockquote>\n<p>&ldquo;It enables dominant firms to extract rents from consumers and small businesses dependent on their services, and creates systemic harms when systems fail or malfunction due to the creation of single points of failure. Most concerningly, it expands the economic and political power of the firms that have access to compute, cementing the control of firms that already dominate the tech industry.&rdquo;</p>\n</blockquote>\n<p>Easily one of the most accessible, straightforward assessments I&rsquo;ve read of Artificial Intelligence and the companies that harness the computational power it requires.</p>\n",
+				"content_text": "[Computational Power and AI - AI Now Institute](https://ainowinstitute.org/publication/policy/compute-and-ai):\n\n> \"It enables dominant firms to extract rents from consumers and small businesses dependent on their services, and creates systemic harms when systems fail or malfunction due to the creation of single points of failure. Most concerningly, it expands the economic and political power of the firms that have access to compute, cementing the control of firms that already dominate the tech industry.\"\n\nEasily one of the most accessible, straightforward assessments I've read of Artificial Intelligence and the companies that harness the computational power it requires. \n",
+				"date_published": "2024-09-26T09:07:22-04:00",
+				"url": "https://micro.fromjason.xyz/2024/09/26/computational-power-and.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/09/25/hyperscalers-tying-up.html",
+				
+				"content_html": "<p><a href=\"https://www.theregister.com/2024/09/25/aspi_hyperscaler_cables/\">Hyperscalers tying up the world in submarine cables • The Register</a>:</p>\n<blockquote>\n<p>Over the past decade, the amount of international subsea capacity used by the four hyperscalers increased from 10 percent to 71 percent, causing the Australian Strategic Policy Institute (ASPI) to conclude that their influence &ldquo;hasn&rsquo;t yet been fully recognized or seriously considered.&rdquo;</p>\n</blockquote>\n<p>I like to call these four companies GAMM (Google Amazon Microsoft Meta)</p>\n",
+				"content_text": "[Hyperscalers tying up the world in submarine cables • The Register](https://www.theregister.com/2024/09/25/aspi_hyperscaler_cables/):\n\n> Over the past decade, the amount of international subsea capacity used by the four hyperscalers increased from 10 percent to 71 percent, causing the Australian Strategic Policy Institute (ASPI) to conclude that their influence \"hasn't yet been fully recognized or seriously considered.\"\n\nI like to call these four companies GAMM (Google Amazon Microsoft Meta)\n",
+				"date_published": "2024-09-25T15:38:55-04:00",
+				"url": "https://micro.fromjason.xyz/2024/09/25/hyperscalers-tying-up.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/09/22/the-bitter-lesson.html",
 				
 				"content_html": "<p><a href=\"http://www.incompleteideas.net/IncIdeas/BitterLesson.html\">The Bitter Lesson</a>:</p>\n<blockquote>\n<p>We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.</p>\n</blockquote>\n",
