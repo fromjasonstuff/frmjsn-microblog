@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2024/12/02/you-unlock-this.html",
+				
+				"content_html": "<p>You unlock this door with the key of imagination. Beyond it is another dimension: a dimension of sound, a dimension of sight, a dimension of mind. You&rsquo;re moving into a land of both shadow and substance, of things and ideas. You&rsquo;ve just crossed over into&hellip; the time between thanksgiving and New Years</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "You unlock this door with the key of imagination. Beyond it is another dimension: a dimension of sound, a dimension of sight, a dimension of mind. You're moving into a land of both shadow and substance, of things and ideas. You've just crossed over into... the time between thanksgiving and New Years\n\n<img src=\"uploads/2024/ff7aada246.jpg\" width=\"600\" height=\"337\" alt=\"Black and white image of a man in a suit looking at the camera. Behind him is a black and white stripped swirl. It's a clip from the show The Twilight Zone \">\n",
+				"date_published": "2024-12-02T09:32:06-05:00",
+				"url": "https://micro.fromjason.xyz/2024/12/02/you-unlock-this.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/11/30/privacy-nightmare-on.html",
+				
+				"content_html": "<p><a href=\"https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/\">‘Privacy Nightmare on Wheels’: Every Car Brand Reviewed By Mozilla</a>:</p>\n<blockquote>\n<p>Mozilla’s latest edition of *Privacy Not Included reveals how 25 major car brands collect and share deeply personal data, including sexual activity, facial expressions, and genetic and health information.</p>\n</blockquote>\n",
+				"content_text": "[‘Privacy Nightmare on Wheels’: Every Car Brand Reviewed By Mozilla](https://foundation.mozilla.org/en/blog/privacy-nightmare-on-wheels-every-car-brand-reviewed-by-mozilla-including-ford-volkswagen-and-toyota-flunks-privacy-test/):\n\n> Mozilla’s latest edition of *Privacy Not Included reveals how 25 major car brands collect and share deeply personal data, including sexual activity, facial expressions, and genetic and health information. \n",
+				"date_published": "2024-11-30T15:07:25-05:00",
+				"url": "https://micro.fromjason.xyz/2024/11/30/privacy-nightmare-on.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/11/30/small-scale-is.html",
+				
+				"content_html": "<p><a href=\"https://manuelmoreale.com/small-scale-is-the-best-scale\">Small scale is the best scale – Manu</a>:</p>\n<blockquote>\n<p>Human connections can only happen at a small scale and low speed. And that’s why I find exploring small corners of the web so valuable at a human level.</p>\n</blockquote>\n",
+				"content_text": "[Small scale is the best scale – Manu](https://manuelmoreale.com/small-scale-is-the-best-scale):\n\n> Human connections can only happen at a small scale and low speed. And that’s why I find exploring small corners of the web so valuable at a human level.\n\n",
+				"date_published": "2024-11-30T09:00:07-05:00",
+				"url": "https://micro.fromjason.xyz/2024/11/30/small-scale-is.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/11/29/what-does-this.html",
+				
+				"content_html": "<p><a href=\"https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr\">What does this button do?</a>:</p>\n<blockquote>\n<p>Of course it being my car, I want to know what all buttons do, so I read the entire manual</p>\n</blockquote>\n<p>I can&rsquo;t think of anything personally less relatable than the urge to read a car manual. But god bless people who do.</p>\n",
+				"content_text": "[What does this button do?](https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr):\n\n> Of course it being my car, I want to know what all buttons do, so I read the entire manual \n\nI can't think of anything personally less relatable than the urge to read a car manual. But god bless people who do. \n",
+				"date_published": "2024-11-29T15:44:05-05:00",
+				"url": "https://micro.fromjason.xyz/2024/11/29/what-does-this.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2024/11/27/media-dropped-a.html",
+				
+				"content_html": "<p>404 Media dropped a report earlier today revealing that people use Bluesky posts to train AI.</p>\n<p>Bluesky published a thread that didn&rsquo;t directly address the report but discussed its own policy and possible future features, such as appending robots.txt to posts.</p>\n<p>Based on the comments of this thread, it&rsquo;s clear that most BS members don&rsquo;t realize their posts go to an open index that anyone can access.</p>\n<p><a href=\"https://bsky.app/profile/bsky.app/post/3lbvgvbvcf22c\">bsky.app/profile/b&hellip;</a></p>\n",
+				"content_text": "404 Media dropped a report earlier today revealing that people use Bluesky posts to train AI. \n\nBluesky published a thread that didn't directly address the report but discussed its own policy and possible future features, such as appending robots.txt to posts. \n\nBased on the comments of this thread, it's clear that most BS members don't realize their posts go to an open index that anyone can access. \n\n[bsky.app/profile/b...](https://bsky.app/profile/bsky.app/post/3lbvgvbvcf22c)\n",
+				"date_published": "2024-11-27T00:31:11-05:00",
+				"url": "https://micro.fromjason.xyz/2024/11/27/media-dropped-a.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2024/11/25/supreme-court-wants.html",
 				
 				"content_html": "<p><a href=\"https://arstechnica.com/tech-policy/2024/11/supreme-court-may-decide-whether-isps-must-terminate-users-accused-of-piracy/\">Supreme Court wants US input on whether ISPs should be liable for users’ piracy - Ars Technica</a>:</p>\n<blockquote>\n<p>In Sony Music Entertainment v. Cox Communications, the major record labels argue that cable provider Cox should be held liable for failing to terminate users who were repeatedly flagged for infringement based on their IP addresses being connected to torrent downloads.</p>\n</blockquote>\n",
