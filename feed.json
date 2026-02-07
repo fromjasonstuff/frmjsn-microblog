@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2026/02/07/im-dying-what-i-think.html",
+				
+				"content_html": "<p>I&rsquo;m dying. What I think happened here is dude is using AI to make automated posts, and the AI grabbed an AI generated photo of an all-Asian cast of Friends to make a barely coherent business strategy analogy.</p>\n<p>I refuse to believe that LinkedIn is a real place.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm dying. What I think happened here is dude is using AI to make automated posts, and the AI grabbed an AI generated photo of an all-Asian cast of Friends to make a barely coherent business strategy analogy. \n\nI refuse to believe that LinkedIn is a real place. \n\n<img src=\"uploads/2026/508d6a76ef.jpg\" width=\"433\" height=\"600\" alt=\"&quot;How do you define friends and financial advisors or wealth managers? Let's start with the basics - both should know everything about you, yet never&quot;&10;&10;Below is an AI generated photo of an all Asian cast of the show Friends lmao \">\n",
+				"date_published": "2026-02-07T10:53:01-05:00",
+				"url": "https://micro.fromjason.xyz/2026/02/07/im-dying-what-i-think.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2026/02/06/found-on-a-cross-street.html",
+				
+				"content_html": "<p>Found on a cross street. I don&rsquo;t know how to feel about the message. I hope Jess is okay.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Found on a cross street. I don't know how to feel about the message. I hope Jess is okay. \n\n<img src=\"uploads/2026/eade94ab06.jpg\" width=\"579\" height=\"600\" alt=\"Sign taped to a pole. It reads:&10;&10;Jess&10;&10;I want peace &10;I want you &10;Let's have fun &10;Please reach out anyway you can&10;Have someone call text fb message&10;&10;I miss you \">\n",
+				"date_published": "2026-02-06T13:13:25-05:00",
+				"url": "https://micro.fromjason.xyz/2026/02/06/found-on-a-cross-street.html"
+			},
+			{
+				"id": "http://fromjason.micro.blog/2026/02/06/this-is-my-favorite-sweatshirt.html",
+				
+				"content_html": "<p>This is my favorite sweatshirt. I bought it back in 2016. That last three years I wasn&rsquo;t able to fit into it. It turns out, that gained weight was bad for my health. Today, I fit into my fav sweatshirt. It&rsquo;s a small win but I feel good.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is my favorite sweatshirt. I bought it back in 2016. That last three years I wasn't able to fit into it. It turns out, that gained weight was bad for my health. Today, I fit into my fav sweatshirt. It's a small win but I feel good. \n\n<img src=\"uploads/2026/118a30445e.jpg\" width=\"337\" height=\"600\" alt=\"Me in a gray sweatshirt and fatigue shorts. I'm giving the peace sign. I'm happy\">\n",
+				"date_published": "2026-02-06T12:43:01-05:00",
+				"url": "https://micro.fromjason.xyz/2026/02/06/this-is-my-favorite-sweatshirt.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2026/02/05/goat-cheese-and-crackers.html",
 				"title": "Goat cheese and crackers",
 				"content_html": "<p>A jar of jam, a pile of crackers, two heaps of goat cheese, and a zero sugar root beer, rest on a wooden cutting board.</p>\n<p>This is the lunch of a man who just spent an hour crafting an email. He is frazzled. He is painfully aware of how insignificant that sixty minutes was in the greater cosmos. He wonders if Corporate America is just some sick joke by a greater entity pulling the strings of the universe for a laugh. It must be.</p>\n<p>Goat cheese and crackers, though. What a treat.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://fromjason.micro.blog/2026/02/03/today-i-wore-a-red.html",
 				
 				"content_html": "<p>Today I wore a red hoodie shirt with a green undershirt, blue shorts, and mismatched socks. It was so bad it became cool again (that&rsquo;s what I told myself.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I wore a red hoodie shirt with a green undershirt, blue shorts, and mismatched socks. It was so bad it became cool again (that's what I told myself.)\n\n<img src=\"uploads/2026/f3d6cf5ccd.jpg\" width=\"337\" height=\"600\" alt=\"Me in a red hoodie shirt with a green undershirt, smiling. I have medium-short dark hair, earbuds on. \">\n",
+				"content_text": "Today I wore a red hoodie shirt with a green undershirt, blue shorts, and mismatched socks. It was so bad it became cool again (that's what I told myself.)\n\n<img src=\"https://micro.fromjason.xyz/uploads/2026/f3d6cf5ccd.jpg\" width=\"337\" height=\"600\" alt=\"Me in a red hoodie shirt with a green undershirt, smiling. I have medium-short dark hair, earbuds on. \">\n",
 				"date_published": "2026-02-03T17:24:38-05:00",
 				"url": "https://micro.fromjason.xyz/2026/02/03/today-i-wore-a-red.html"
 			},
