@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://fromjason.micro.blog/2026/02/17/mfw-capitalism.html",
+				
+				"content_html": "<p>mfw capitalism.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "mfw capitalism. \n\n\n\n<img src=\"uploads/2026/7ca25dc458.jpg\" width=\"600\" height=\"600\" alt=\"A deteriorated Scrub Daddy on a cutting board  ￼\">\n",
+				"date_published": "2026-02-17T14:27:15-05:00",
+				"url": "https://micro.fromjason.xyz/2026/02/17/mfw-capitalism.html"
+			},
+			{
 				"id": "http://fromjason.micro.blog/2026/02/15/google-microsoft-pay-creators-and.html",
 				
 				"content_html": "<p><a href=\"https://www.cnbc.com/2026/02/06/google-microsoft-pay-creators-500000-and-more-to-promote-ai.html\">Google, Microsoft pay creators $500,000 and more to promote AI</a>:</p>\n<blockquote>\n<p>Other artificial intelligence players, including Anthropic and Meta, are also hiring social media creators to post sponsored content on apps like Facebook, Instagram, YouTube and even LinkedIn.</p>\n</blockquote>\n<p>Obviously this doesn&rsquo;t confirm that Hank Green specifically was paid by Anthropic. But considering the pro-Anthroopic, AI culty videos he made recently, it&rsquo;d be nice for him to confirm he wasn&rsquo;t paid.</p>\n",
@@ -50,7 +58,7 @@
 				"id": "http://fromjason.micro.blog/2026/02/10/my-niece-and-i-made.html",
 				
 				"content_html": "<p>My niece and I made an album cover for our new band <em>Nova Band.</em> We make pop music and we love cotton candy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My niece and I made an album cover for our new band *Nova Band.* We make pop music and we love cotton candy. \n\n<img src=\"uploads/2026/2f8fec3274.png\" width=\"600\" height=\"600\" alt=\"Black and white photo of me and my niece making funny faces. In the center reads Nova Band and to the bottom right is a parental advisory sticker. \">\n",
+				"content_text": "My niece and I made an album cover for our new band *Nova Band.* We make pop music and we love cotton candy. \n\n<img src=\"https://micro.fromjason.xyz/uploads/2026/2f8fec3274.png\" width=\"600\" height=\"600\" alt=\"Black and white photo of me and my niece making funny faces. In the center reads Nova Band and to the bottom right is a parental advisory sticker. \">\n",
 				"date_published": "2026-02-10T18:16:18-05:00",
 				"url": "https://micro.fromjason.xyz/2026/02/10/my-niece-and-i-made.html"
 			},
